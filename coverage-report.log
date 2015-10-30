@@ -20,7 +20,7 @@ pykickstart/commands/fcoe.py                      91     37     14      1    52%
 pykickstart/commands/firewall.py                 142     23     46      9    79%
 pykickstart/commands/firstboot.py                 31      0      8      0   100%
 pykickstart/commands/group.py                     52      0     10      0   100%
-pykickstart/commands/harddrive.py                 40      0      9      0   100%
+pykickstart/commands/harddrive.py                 40      0      8      0   100%
 pykickstart/commands/ignoredisk.py                84      1     26      1    98%
 pykickstart/commands/interactive.py               28      0      4      0   100%
 pykickstart/commands/iscsi.py                    120      0     22      0   100%
@@ -30,9 +30,9 @@ pykickstart/commands/keyboard.py                  88      0     32      0   100%
 pykickstart/commands/lang.py                      51      0     10      0   100%
 pykickstart/commands/langsupport.py               29      0      4      0   100%
 pykickstart/commands/lilocheck.py                 25      0      4      0   100%
-pykickstart/commands/liveimg.py                   40      0     13      0   100%
+pykickstart/commands/liveimg.py                   40      0     10      0   100%
 pykickstart/commands/logging.py                   40      0     12      1    98%
-pykickstart/commands/logvol.py                   474     16    136      5    96%
+pykickstart/commands/logvol.py                   474     16    134      5    96%
 pykickstart/commands/mediacheck.py                25      0      4      0   100%
 pykickstart/commands/method.py                    68     24     46     15    57%
 pykickstart/commands/monitor.py                   65      0     20      0   100%
@@ -64,7 +64,7 @@ pykickstart/commands/vnc.py                       69      0     16      0   100%
 pykickstart/commands/volgroup.py                 128      0     34      0   100%
 pykickstart/commands/xconfig.py                  136     39     40      7    59%
 pykickstart/commands/zerombr.py                   35      0      6      0   100%
-pykickstart/commands/zfcp.py                      94      5     23      5    88%
+pykickstart/commands/zfcp.py                      94      5     18      5    89%
 pykickstart/constants.py                          35      0      0      0   100%
 pykickstart/errors.py                             28      0      2      0   100%
 pykickstart/handlers/__init__.py                   1      0      0      0   100%
@@ -101,8 +101,8 @@ pykickstart/ko.py                                  6      0      0      0   100%
 pykickstart/load.py                               44     20     12      1    55%
 pykickstart/options.py                            98      9     35      8    87%
 pykickstart/orderedset.py                         48      0     16      0   100%
-pykickstart/parser.py                            403     78    168     30    78%
+pykickstart/parser.py                            403     78    167     30    78%
 pykickstart/sections.py                          122      2     18      3    96%
 pykickstart/version.py                            99      0     30      1    99%
 --------------------------------------------------------------------------------
-TOTAL                                           6907    398   1817    156    92%
+TOTAL                                           6907    398   1805    156    92%
