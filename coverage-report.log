@@ -4,7 +4,7 @@ pykickstart/__init__.py                            0      0      0      0   100%
 pykickstart/base.py                              187     26     94     10    82%
 pykickstart/commands/__init__.py                   1      0      0      0   100%
 pykickstart/commands/authconfig.py                15      0      2      0   100%
-pykickstart/commands/autopart.py                 234     10     72     11    93%
+pykickstart/commands/autopart.py                 234      9     72     10    94%
 pykickstart/commands/autostep.py                  26      0      4      0   100%
 pykickstart/commands/bootloader.py               258      0     60      0   100%
 pykickstart/commands/btrfs.py                    120      0     32      1    99%
@@ -53,7 +53,7 @@ pykickstart/commands/selinux.py                   32      0      8      0   100%
 pykickstart/commands/services.py                  36      0     10      0   100%
 pykickstart/commands/skipx.py                     25      0      4      0   100%
 pykickstart/commands/sshkey.py                    57      0      8      0   100%
-pykickstart/commands/sshpw.py                     67      0     12      0   100%
+pykickstart/commands/sshpw.py                     92      2     18      2    96%
 pykickstart/commands/timezone.py                  95      0     28      0   100%
 pykickstart/commands/unsupported_hardware.py      25      0      4      0   100%
 pykickstart/commands/updates.py                   29      0      8      0   100%
@@ -98,11 +98,11 @@ pykickstart/handlers/rhel6.py                      8      0      0      0   100%
 pykickstart/handlers/rhel7.py                      8      0      0      0   100%
 pykickstart/i18n.py                               20      4      8      3    68%
 pykickstart/ko.py                                  6      0      0      0   100%
-pykickstart/load.py                               44     20     12      1    55%
+pykickstart/load.py                               48     22     16      2    53%
 pykickstart/options.py                            98      9     35      8    87%
 pykickstart/orderedset.py                         48      0     16      0   100%
 pykickstart/parser.py                            403     77    167     29    79%
 pykickstart/sections.py                          122      2     18      3    96%
 pykickstart/version.py                            99      0     30      1    99%
 --------------------------------------------------------------------------------
-TOTAL                                           6908    359   1805    149    93%
+TOTAL                                           6937    362   1815    151    93%
