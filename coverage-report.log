@@ -98,11 +98,11 @@ pykickstart/handlers/rhel6.py                      8      0      0      0   100%
 pykickstart/handlers/rhel7.py                      8      0      0      0   100%
 pykickstart/i18n.py                               20      4      8      3    68%
 pykickstart/ko.py                                  6      0      0      0   100%
-pykickstart/load.py                               48     22     16      2    53%
+pykickstart/load.py                               48     20     16      2    56%
 pykickstart/options.py                            98      9     35      8    87%
 pykickstart/orderedset.py                         48      0     16      0   100%
-pykickstart/parser.py                            403     77    167     29    79%
+pykickstart/parser.py                            420     44    173     34    85%
 pykickstart/sections.py                          122      2     18      3    96%
 pykickstart/version.py                            99      0     30      1    99%
 --------------------------------------------------------------------------------
-TOTAL                                           6937    362   1815    151    93%
+TOTAL                                           6954    327   1821    156    93%
