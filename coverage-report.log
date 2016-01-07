@@ -1,10 +1,10 @@
 Name                                           Stmts   Miss Branch BrPart  Cover
 --------------------------------------------------------------------------------
 pykickstart/__init__.py                            0      0      0      0   100%
-pykickstart/base.py                              187     26     94     10    82%
+pykickstart/base.py                              192     28     94     10    82%
 pykickstart/commands/__init__.py                   1      0      0      0   100%
 pykickstart/commands/authconfig.py                15      0      2      0   100%
-pykickstart/commands/autopart.py                 234     10     72     11    93%
+pykickstart/commands/autopart.py                 234      9     72     10    94%
 pykickstart/commands/autostep.py                  26      0      4      0   100%
 pykickstart/commands/bootloader.py               258      0     60      0   100%
 pykickstart/commands/btrfs.py                    120      0     32      1    99%
@@ -26,7 +26,7 @@ pykickstart/commands/interactive.py               28      0      4      0   100%
 pykickstart/commands/iscsi.py                    120      0     22      0   100%
 pykickstart/commands/iscsiname.py                 25      0      4      0   100%
 pykickstart/commands/key.py                       33      0      8      0   100%
-pykickstart/commands/keyboard.py                  88      0     32      0   100%
+pykickstart/commands/keyboard.py                  92      2     32      0    98%
 pykickstart/commands/lang.py                      51      0     10      0   100%
 pykickstart/commands/langsupport.py               29      0      4      0   100%
 pykickstart/commands/lilocheck.py                 25      0      4      0   100%
@@ -68,7 +68,7 @@ pykickstart/commands/zfcp.py                      94      5     18      5    89%
 pykickstart/constants.py                          35      0      0      0   100%
 pykickstart/errors.py                             28      0      2      0   100%
 pykickstart/handlers/__init__.py                   1      0      0      0   100%
-pykickstart/handlers/control.py                   13      1      9      3    82%
+pykickstart/handlers/control.py                   18      3      9      3    78%
 pykickstart/handlers/f10.py                        8      0      0      0   100%
 pykickstart/handlers/f11.py                        8      0      0      0   100%
 pykickstart/handlers/f12.py                        8      0      0      0   100%
@@ -103,6 +103,6 @@ pykickstart/options.py                            98      9     35      8    87%
 pykickstart/orderedset.py                         48      0     16      0   100%
 pykickstart/parser.py                            420     44    173     34    85%
 pykickstart/sections.py                          122      2     18      3    96%
-pykickstart/version.py                            99      0     30      1    99%
+pykickstart/version.py                           104      0     32      1    99%
 --------------------------------------------------------------------------------
-TOTAL                                           6954    328   1821    157    93%
+TOTAL                                           6973    333   1823    156    93%
