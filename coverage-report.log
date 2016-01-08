@@ -1,108 +1,108 @@
-Name                                           Stmts   Miss Branch BrPart  Cover
---------------------------------------------------------------------------------
-pykickstart/__init__.py                            0      0      0      0   100%
-pykickstart/base.py                              192     28     94     10    82%
-pykickstart/commands/__init__.py                   1      0      0      0   100%
-pykickstart/commands/authconfig.py                15      0      2      0   100%
-pykickstart/commands/autopart.py                 234      9     72     10    94%
-pykickstart/commands/autostep.py                  26      0      4      0   100%
-pykickstart/commands/bootloader.py               258      0     60      0   100%
-pykickstart/commands/btrfs.py                    120      0     32      1    99%
-pykickstart/commands/cdrom.py                     24      0      4      0   100%
-pykickstart/commands/clearpart.py                 79      0     20      0   100%
-pykickstart/commands/device.py                    83      0     20      0   100%
-pykickstart/commands/deviceprobe.py               15      0      2      0   100%
-pykickstart/commands/displaymode.py               37      0     16      0   100%
-pykickstart/commands/dmraid.py                    52      6      8      2    83%
-pykickstart/commands/driverdisk.py               122      0     36      0   100%
-pykickstart/commands/eula.py                      31      0      8      0   100%
-pykickstart/commands/fcoe.py                      91     37     14      1    52%
-pykickstart/commands/firewall.py                 142     23     46      9    79%
-pykickstart/commands/firstboot.py                 31      0      8      0   100%
-pykickstart/commands/group.py                     52      0     10      0   100%
-pykickstart/commands/harddrive.py                 40      0      8      0   100%
-pykickstart/commands/ignoredisk.py                84      1     26      1    98%
-pykickstart/commands/interactive.py               28      0      4      0   100%
-pykickstart/commands/iscsi.py                    120      0     22      0   100%
-pykickstart/commands/iscsiname.py                 25      0      4      0   100%
-pykickstart/commands/key.py                       33      0      8      0   100%
-pykickstart/commands/keyboard.py                  92      2     32      0    98%
-pykickstart/commands/lang.py                      51      0     10      0   100%
-pykickstart/commands/langsupport.py               29      0      4      0   100%
-pykickstart/commands/lilocheck.py                 25      0      4      0   100%
-pykickstart/commands/liveimg.py                   40      0     10      0   100%
-pykickstart/commands/logging.py                   40      0     12      1    98%
-pykickstart/commands/logvol.py                   474     16    134      5    96%
-pykickstart/commands/mediacheck.py                25      0      4      0   100%
-pykickstart/commands/method.py                    68     24     46     15    57%
-pykickstart/commands/monitor.py                   65      0     20      0   100%
-pykickstart/commands/mouse.py                     38      0      8      0   100%
-pykickstart/commands/multipath.py                 66     33     14      1    42%
-pykickstart/commands/network.py                  460     64    132     37    80%
-pykickstart/commands/nfs.py                       51      0      8      0   100%
-pykickstart/commands/ostreesetup.py               50      0     16      0   100%
-pykickstart/commands/partition.py                344      0     86      0   100%
-pykickstart/commands/raid.py                     339      1     70      2    99%
-pykickstart/commands/realm.py                     55      0     18      0   100%
-pykickstart/commands/reboot.py                    79      0     14      0   100%
-pykickstart/commands/repo.py                     188      0     36      0   100%
-pykickstart/commands/reqpart.py                   36      0      8      0   100%
-pykickstart/commands/rescue.py                    35      0      8      0   100%
-pykickstart/commands/rootpw.py                    67      0     16      0   100%
-pykickstart/commands/selinux.py                   32      0      8      0   100%
-pykickstart/commands/services.py                  36      0     10      0   100%
-pykickstart/commands/skipx.py                     25      0      4      0   100%
-pykickstart/commands/sshkey.py                    57      0      8      0   100%
-pykickstart/commands/sshpw.py                     92      2     18      2    96%
-pykickstart/commands/timezone.py                  95      0     28      0   100%
-pykickstart/commands/unsupported_hardware.py      25      0      4      0   100%
-pykickstart/commands/updates.py                   29      0      8      0   100%
-pykickstart/commands/upgrade.py                   61      0     16      0   100%
-pykickstart/commands/url.py                      107      0     28      0   100%
-pykickstart/commands/user.py                     135      0     30      0   100%
-pykickstart/commands/vnc.py                       69      0     16      0   100%
-pykickstart/commands/volgroup.py                 128      0     34      0   100%
-pykickstart/commands/xconfig.py                  137      0     40      0   100%
-pykickstart/commands/zerombr.py                   35      0      6      0   100%
-pykickstart/commands/zfcp.py                      94      5     18      5    89%
-pykickstart/constants.py                          35      0      0      0   100%
-pykickstart/errors.py                             28      0      2      0   100%
-pykickstart/handlers/__init__.py                   1      0      0      0   100%
-pykickstart/handlers/control.py                   18      3      9      3    78%
-pykickstart/handlers/f10.py                        8      0      0      0   100%
-pykickstart/handlers/f11.py                        8      0      0      0   100%
-pykickstart/handlers/f12.py                        8      0      0      0   100%
-pykickstart/handlers/f13.py                        8      0      0      0   100%
-pykickstart/handlers/f14.py                        8      0      0      0   100%
-pykickstart/handlers/f15.py                        8      0      0      0   100%
-pykickstart/handlers/f16.py                        8      0      0      0   100%
-pykickstart/handlers/f17.py                        8      0      0      0   100%
-pykickstart/handlers/f18.py                        8      0      0      0   100%
-pykickstart/handlers/f19.py                        8      0      0      0   100%
-pykickstart/handlers/f20.py                        8      0      0      0   100%
-pykickstart/handlers/f21.py                        8      0      0      0   100%
-pykickstart/handlers/f22.py                        8      0      0      0   100%
-pykickstart/handlers/f23.py                        8      0      0      0   100%
-pykickstart/handlers/f24.py                        8      0      0      0   100%
-pykickstart/handlers/f7.py                         8      0      0      0   100%
-pykickstart/handlers/f8.py                         8      0      0      0   100%
-pykickstart/handlers/f9.py                         8      0      0      0   100%
-pykickstart/handlers/fc3.py                        8      0      0      0   100%
-pykickstart/handlers/fc4.py                        8      0      0      0   100%
-pykickstart/handlers/fc5.py                        8      0      0      0   100%
-pykickstart/handlers/fc6.py                        8      0      0      0   100%
-pykickstart/handlers/rhel3.py                      8      0      0      0   100%
-pykickstart/handlers/rhel4.py                      8      0      0      0   100%
-pykickstart/handlers/rhel5.py                      8      0      0      0   100%
-pykickstart/handlers/rhel6.py                      8      0      0      0   100%
-pykickstart/handlers/rhel7.py                      8      0      0      0   100%
-pykickstart/i18n.py                               20      4      8      3    68%
-pykickstart/ko.py                                  6      0      0      0   100%
-pykickstart/load.py                               48     20     16      2    56%
-pykickstart/options.py                            98      9     35      8    87%
-pykickstart/orderedset.py                         48      0     16      0   100%
-pykickstart/parser.py                            420     44    173     34    85%
-pykickstart/sections.py                          122      2     18      3    96%
-pykickstart/version.py                           104      0     32      1    99%
---------------------------------------------------------------------------------
-TOTAL                                           6973    333   1823    156    93%
+Name                                           Stmts   Miss Branch BrPart  Cover   Missing
+------------------------------------------------------------------------------------------
+pykickstart/__init__.py                            0      0      0      0   100%   
+pykickstart/base.py                              192     28     94     10    82%   54-55, 109, 116-125, 138, 188, 192-193, 294, 300, 335-339, 356, 362, 365, 368, 491-498, 108->109, 293->294, 299->300, 320->311, 332->337, 334->335, 352->356, 358->362, 364->365, 367->368
+pykickstart/commands/__init__.py                   1      0      0      0   100%   
+pykickstart/commands/authconfig.py                15      0      2      0   100%   
+pykickstart/commands/autopart.py                 234      9     72     10    94%   137, 168, 170, 172, 174, 176, 180-182, 334, 38->41, 136->137, 167->168, 169->170, 171->172, 173->174, 175->176, 178->180, 251->-250, 333->334
+pykickstart/commands/autostep.py                  26      0      4      0   100%   
+pykickstart/commands/bootloader.py               258      0     60      0   100%   
+pykickstart/commands/btrfs.py                    120      0     32      1    99%   128->-127
+pykickstart/commands/cdrom.py                     24      0      4      0   100%   
+pykickstart/commands/clearpart.py                 79      0     20      0   100%   
+pykickstart/commands/device.py                    83      0     20      0   100%   
+pykickstart/commands/deviceprobe.py               15      0      2      0   100%   
+pykickstart/commands/displaymode.py               37      0     16      0   100%   
+pykickstart/commands/dmraid.py                    52      6      8      2    83%   39-42, 45, 69, 90, 68->69, 89->90
+pykickstart/commands/driverdisk.py               122      0     36      0   100%   
+pykickstart/commands/eula.py                      31      0      8      0   100%   
+pykickstart/commands/fcoe.py                      91     37     14      1    52%   32-33, 36-39, 42, 45-50, 53-55, 62-63, 66-71, 78-79, 82-87, 101, 111-124, 127, 100->101
+pykickstart/commands/firewall.py                 142     23     46      9    79%   45, 53, 55, 57, 59, 61, 92, 142, 205-211, 223-235, 44->45, 52->53, 54->55, 56->57, 58->59, 60->61, 91->92, 141->142, 220->223
+pykickstart/commands/firstboot.py                 31      0      8      0   100%   
+pykickstart/commands/group.py                     52      0     10      0   100%   
+pykickstart/commands/harddrive.py                 40      0      8      0   100%   
+pykickstart/commands/ignoredisk.py                84      1     26      1    98%   108, 107->108
+pykickstart/commands/interactive.py               28      0      4      0   100%   
+pykickstart/commands/iscsi.py                    120      0     22      0   100%   
+pykickstart/commands/iscsiname.py                 25      0      4      0   100%   
+pykickstart/commands/key.py                       33      0      8      0   100%   
+pykickstart/commands/keyboard.py                  92      2     32      0    98%   29-30
+pykickstart/commands/lang.py                      51      0     10      0   100%   
+pykickstart/commands/langsupport.py               29      0      4      0   100%   
+pykickstart/commands/lilocheck.py                 25      0      4      0   100%   
+pykickstart/commands/liveimg.py                   40      0     10      0   100%   
+pykickstart/commands/logging.py                   40      0     12      1    98%   39->-30
+pykickstart/commands/logvol.py                   474     16    134      5    96%   105-107, 110-118, 363, 482-483, 669-670, 681-682, 362->363, 481->482, 648->647, 668->669, 680->681
+pykickstart/commands/mediacheck.py                25      0      4      0   100%   
+pykickstart/commands/method.py                    68     24     46     15    57%   35-36, 40-46, 51, 58, 60, 62, 64, 66, 69, 71, 73, 97, 100-103, 110, 112, 116, 39->40, 50->51, 57->58, 59->60, 61->62, 63->64, 65->66, 68->69, 70->71, 72->73, 96->97, 99->100, 109->110, 111->112, 115->116
+pykickstart/commands/monitor.py                   65      0     20      0   100%   
+pykickstart/commands/mouse.py                     38      0      8      0   100%   
+pykickstart/commands/multipath.py                 66     33     14      1    42%   32-35, 38, 45-47, 50-55, 70, 85-107, 110, 69->70
+pykickstart/commands/network.py                  460     64    132     37    80%   53-56, 59, 67, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 112, 129, 131, 147, 165, 167, 169, 188, 190, 192, 194, 220, 234, 250, 252, 261-262, 265-270, 277-282, 285-299, 313, 315, 336, 339, 373, 447-450, 64->66, 66->67, 68->70, 70->71, 72->73, 74->75, 76->77, 78->79, 80->81, 82->83, 84->85, 86->87, 88->89, 90->91, 111->112, 128->129, 130->131, 146->147, 164->165, 166->167, 168->169, 187->188, 189->190, 191->192, 193->194, 211->219, 219->220, 233->234, 249->250, 251->252, 312->313, 314->315, 335->336, 338->339, 372->373, 473->505, 480->492
+pykickstart/commands/nfs.py                       51      0      8      0   100%   
+pykickstart/commands/ostreesetup.py               50      0     16      0   100%   
+pykickstart/commands/partition.py                344      0     86      0   100%   
+pykickstart/commands/raid.py                     339      1     70      2    99%   349, 292->-291, 348->349
+pykickstart/commands/realm.py                     55      0     18      0   100%   
+pykickstart/commands/reboot.py                    79      0     14      0   100%   
+pykickstart/commands/repo.py                     188      0     36      0   100%   
+pykickstart/commands/reqpart.py                   36      0      8      0   100%   
+pykickstart/commands/rescue.py                    35      0      8      0   100%   
+pykickstart/commands/rootpw.py                    67      0     16      0   100%   
+pykickstart/commands/selinux.py                   32      0      8      0   100%   
+pykickstart/commands/services.py                  36      0     10      0   100%   
+pykickstart/commands/skipx.py                     25      0      4      0   100%   
+pykickstart/commands/sshkey.py                    57      0      8      0   100%   
+pykickstart/commands/sshpw.py                     92      2     18      2    96%   85, 87, 84->85, 86->87
+pykickstart/commands/timezone.py                  95      0     28      0   100%   
+pykickstart/commands/unsupported_hardware.py      25      0      4      0   100%   
+pykickstart/commands/updates.py                   29      0      8      0   100%   
+pykickstart/commands/upgrade.py                   61      0     16      0   100%   
+pykickstart/commands/url.py                      107      0     28      0   100%   
+pykickstart/commands/user.py                     135      0     30      0   100%   
+pykickstart/commands/vnc.py                       69      0     16      0   100%   
+pykickstart/commands/volgroup.py                 128      0     34      0   100%   
+pykickstart/commands/xconfig.py                  137      0     40      0   100%   
+pykickstart/commands/zerombr.py                   35      0      6      0   100%   
+pykickstart/commands/zfcp.py                      94      5     18      5    89%   89, 110, 126-129, 53->55, 55->57, 57->59, 88->89, 109->110
+pykickstart/constants.py                          35      0      0      0   100%   
+pykickstart/errors.py                             28      0      2      0   100%   
+pykickstart/handlers/__init__.py                   1      0      0      0   100%   
+pykickstart/handlers/control.py                   18      3      9      3    78%   28-29, 40, 34->-20, 39->35, 39->40
+pykickstart/handlers/f10.py                        8      0      0      0   100%   
+pykickstart/handlers/f11.py                        8      0      0      0   100%   
+pykickstart/handlers/f12.py                        8      0      0      0   100%   
+pykickstart/handlers/f13.py                        8      0      0      0   100%   
+pykickstart/handlers/f14.py                        8      0      0      0   100%   
+pykickstart/handlers/f15.py                        8      0      0      0   100%   
+pykickstart/handlers/f16.py                        8      0      0      0   100%   
+pykickstart/handlers/f17.py                        8      0      0      0   100%   
+pykickstart/handlers/f18.py                        8      0      0      0   100%   
+pykickstart/handlers/f19.py                        8      0      0      0   100%   
+pykickstart/handlers/f20.py                        8      0      0      0   100%   
+pykickstart/handlers/f21.py                        8      0      0      0   100%   
+pykickstart/handlers/f22.py                        8      0      0      0   100%   
+pykickstart/handlers/f23.py                        8      0      0      0   100%   
+pykickstart/handlers/f24.py                        8      0      0      0   100%   
+pykickstart/handlers/f7.py                         8      0      0      0   100%   
+pykickstart/handlers/f8.py                         8      0      0      0   100%   
+pykickstart/handlers/f9.py                         8      0      0      0   100%   
+pykickstart/handlers/fc3.py                        8      0      0      0   100%   
+pykickstart/handlers/fc4.py                        8      0      0      0   100%   
+pykickstart/handlers/fc5.py                        8      0      0      0   100%   
+pykickstart/handlers/fc6.py                        8      0      0      0   100%   
+pykickstart/handlers/rhel3.py                      8      0      0      0   100%   
+pykickstart/handlers/rhel4.py                      8      0      0      0   100%   
+pykickstart/handlers/rhel5.py                      8      0      0      0   100%   
+pykickstart/handlers/rhel6.py                      8      0      0      0   100%   
+pykickstart/handlers/rhel7.py                      8      0      0      0   100%   
+pykickstart/i18n.py                               20      4      8      3    68%   38, 42, 46-48, 31->46, 37->38, 41->42
+pykickstart/ko.py                                  6      0      0      0   100%   
+pykickstart/load.py                               48     20     16      2    56%   59-72, 81-84, 100-101, 110-113, 96->100, 98->102
+pykickstart/options.py                            98      9     35      8    87%   47, 53, 85-87, 93, 136-137, 179, 191, 50->53, 59->58, 84->85, 92->93, 103->106, 133->136, 178->179, 190->191
+pykickstart/orderedset.py                         48      0     16      0   100%   
+pykickstart/parser.py                            420     44    173     34    85%   89-90, 122-123, 142, 159, 167, 229, 232-235, 238, 240, 242, 244, 250-255, 287, 290, 293, 296, 299, 390, 392, 394, 396, 405, 422, 541, 563, 566, 585, 628, 633, 667, 675, 715, 724, 752, 781-782, 63->66, 81->83, 100->67, 134->142, 151->159, 228->229, 230->232, 237->238, 239->240, 241->242, 243->244, 246->252, 247->250, 389->390, 391->392, 393->394, 395->396, 402->405, 421->422, 549->-543, 562->563, 565->566, 584->585, 627->628, 632->633, 634->591, 664->667, 674->675, 685->688, 714->715, 722->724, 751->752, 753->696, 780->781
+pykickstart/sections.py                          122      2     18      3    96%   148, 220, 147->148, 160->-146, 219->220
+pykickstart/version.py                           104      0     32      1    99%   198->205
+------------------------------------------------------------------------------------------
+TOTAL                                           6973    333   1823    156    93%   
