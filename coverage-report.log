@@ -4,7 +4,7 @@ pykickstart/__init__.py                            0      0      0      0   100%
 pykickstart/base.py                              197     25     95     12    85%   109, 122, 138, 166-167, 182-183, 201, 205-206, 307, 313, 348-352, 369, 375, 378, 381, 509-516, 108->109, 121->122, 124->118, 306->307, 312->313, 333->324, 345->350, 347->348, 365->369, 371->375, 377->378, 380->381
 pykickstart/commands/__init__.py                   1      0      0      0   100%   
 pykickstart/commands/authconfig.py                15      0      2      0   100%   
-pykickstart/commands/autopart.py                 231      4     72      5    97%   135, 174, 229, 321, 38->41, 134->135, 173->174, 228->229, 320->321
+pykickstart/commands/autopart.py                 231      3     72      4    98%   135, 174, 321, 38->41, 134->135, 173->174, 320->321
 pykickstart/commands/autostep.py                  26      0      4      0   100%   
 pykickstart/commands/bootloader.py               264      0     62      0   100%   
 pykickstart/commands/btrfs.py                    125      0     39      0   100%   
@@ -34,7 +34,7 @@ pykickstart/commands/liveimg.py                   40      0     10      0   100%
 pykickstart/commands/logging.py                   40      1     12      2    94%   72, 39->-30, 71->72
 pykickstart/commands/logvol.py                   472      0    135      0   100%   
 pykickstart/commands/mediacheck.py                21      0      2      0   100%   
-pykickstart/commands/method.py                    68     24     46     15    57%   35-36, 40-46, 51, 58, 60, 62, 64, 66, 69, 71, 73, 97, 100-103, 110, 112, 116, 39->40, 50->51, 57->58, 59->60, 61->62, 63->64, 65->66, 68->69, 70->71, 72->73, 96->97, 99->100, 109->110, 111->112, 115->116
+pykickstart/commands/method.py                    68      1     46      1    98%   46, 40->46
 pykickstart/commands/monitor.py                   60      0     18      0   100%   
 pykickstart/commands/mouse.py                     41      0     11      0   100%   
 pykickstart/commands/multipath.py                 66     33     14      1    42%   32-35, 38, 45-47, 50-55, 70, 82-104, 107, 69->70
@@ -105,4 +105,4 @@ pykickstart/parser.py                            425     24    173     28    91%
 pykickstart/sections.py                          125      1     16      2    98%   160, 159->160, 169->-158
 pykickstart/version.py                           104      0     32      1    99%   198->205
 ------------------------------------------------------------------------------------------
-TOTAL                                           6925    146   1831     95    97%   
+TOTAL                                           6925    122   1831     80    97%   
