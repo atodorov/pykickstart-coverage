@@ -4,7 +4,7 @@ pykickstart/__init__.py                            0      0      0      0   100%
 pykickstart/base.py                              197     25     95     12    85%   109, 122, 138, 166-167, 182-183, 201, 205-206, 307, 313, 348-352, 369, 375, 378, 381, 509-516, 108->109, 121->122, 124->118, 306->307, 312->313, 333->324, 345->350, 347->348, 365->369, 371->375, 377->378, 380->381
 pykickstart/commands/__init__.py                   1      0      0      0   100%
 pykickstart/commands/authconfig.py                15      0      2      0   100%
-pykickstart/commands/autopart.py                 231      4     72      5    97%   135, 174, 229, 321, 38->41, 134->135, 173->174, 228->229, 320->321
+pykickstart/commands/autopart.py                 231      3     72      4    98%   135, 174, 321, 38->41, 134->135, 173->174, 320->321
 pykickstart/commands/autostep.py                  26      0      4      0   100%
 pykickstart/commands/bootloader.py               264      0     62      0   100%
 pykickstart/commands/btrfs.py                    125      0     39      0   100%
@@ -104,4 +104,4 @@ pykickstart/parser.py                            425     24    173     28    91%
 pykickstart/sections.py                          125      1     16      2    98%   160, 159->160, 169->-158
 pykickstart/version.py                            97      0     30      1    99%   194->-174
 ------------------------------------------------------------------------------------------
-TOTAL                                           6870    123   1808     79    97%
+TOTAL                                           6870    122   1808     78    97%
