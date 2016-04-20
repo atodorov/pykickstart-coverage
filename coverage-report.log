@@ -37,7 +37,7 @@ pykickstart/commands/mediacheck.py                21      0      2      0   100%
 pykickstart/commands/method.py                    68      1     46      1    98%   46, 40->46
 pykickstart/commands/monitor.py                   60      0     18      0   100%
 pykickstart/commands/mouse.py                     41      0     11      0   100%
-pykickstart/commands/multipath.py                 73      0     14      1    99%   95->89
+pykickstart/commands/multipath.py                 74      0     14      1    99%   96->90
 pykickstart/commands/network.py                  462      6    132      4    98%   336, 339, 440-443, 335->336, 338->339, 463->496, 470->482
 pykickstart/commands/nfs.py                       51      0      8      0   100%
 pykickstart/commands/ostreesetup.py               50      0     16      0   100%
@@ -109,4 +109,4 @@ tools/ksshell.py                                 108    108     28      0     0%
 tools/ksvalidator.py                              60     60     12      0     0%   24-106
 tools/ksverdiff.py                                68     68     24      0     0%   24-117
 ------------------------------------------------------------------------------------------
-TOTAL                                           7235    348   1884     70    95%
+TOTAL                                           7236    348   1884     70    95%
