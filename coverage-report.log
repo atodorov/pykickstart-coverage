@@ -1,10 +1,10 @@
 Name                                           Stmts   Miss Branch BrPart  Cover   Missing
 ------------------------------------------------------------------------------------------
 pykickstart/__init__.py                            0      0      0      0   100%
-pykickstart/base.py                              196     17     95     13    89%   102, 115, 131, 168-169, 184-185, 308, 314, 351-353, 370, 376, 379, 382, 513, 101->102, 114->115, 117->111, 307->308, 313->314, 334->325, 346->351, 366->370, 372->376, 378->379, 381->382, 512->513, 515->509
+pykickstart/base.py                              196     18     95     14    88%   102, 115, 131, 168-169, 184-185, 308, 314, 349-353, 370, 376, 379, 382, 513, 101->102, 114->115, 117->111, 307->308, 313->314, 334->325, 346->351, 348->349, 366->370, 372->376, 378->379, 381->382, 512->513, 515->509
 pykickstart/commands/__init__.py                   1      0      0      0   100%
 pykickstart/commands/authconfig.py                21      3      2      0    87%   45-57
-pykickstart/commands/autopart.py                 241      4     76      5    97%   168, 210, 267, 368, 40->43, 167->168, 209->210, 266->267, 367->368
+pykickstart/commands/autopart.py                 241      3     76      4    98%   168, 210, 368, 40->43, 167->168, 209->210, 367->368
 pykickstart/commands/autostep.py                  27      0      4      0   100%
 pykickstart/commands/bootloader.py               266      0     62      0   100%
 pykickstart/commands/btrfs.py                    129      0     39      0   100%
@@ -26,7 +26,7 @@ pykickstart/commands/interactive.py               29      3      2      0    90%
 pykickstart/commands/iscsi.py                    102      0     18      0   100%
 pykickstart/commands/iscsiname.py                 30      1      6      1    94%   59, 58->59
 pykickstart/commands/key.py                       37      0     11      0   100%
-pykickstart/commands/keyboard.py                  97      0     32      0   100%
+pykickstart/commands/keyboard.py                  95      0     32      0   100%
 pykickstart/commands/lang.py                      48      1      8      1    96%   70, 69->70
 pykickstart/commands/langsupport.py               39      3      7      0    93%   69-71
 pykickstart/commands/lilocheck.py                 22      0      2      0   100%
@@ -67,8 +67,8 @@ pykickstart/commands/zerombr.py                   33      0      4      0   100%
 pykickstart/commands/zfcp.py                      97      1     18      4    96%   97, 54->56, 56->58, 58->60, 96->97
 pykickstart/constants.py                          36      0      0      0   100%
 pykickstart/errors.py                             28      2      2      0    93%   80, 83
-pykickstart/handlers/__init__.py                   1      0      0      0   100%
-pykickstart/handlers/control.py                   13      1      8      2    86%   33, 27->exit, 32->33
+pykickstart/handlers/__init__.py                   0      0      0      0   100%
+pykickstart/handlers/control.py                   17      2     10      3    81%   34, 38, 28->exit, 33->34, 37->38
 pykickstart/handlers/f10.py                        8      0      0      0   100%
 pykickstart/handlers/f11.py                        8      0      0      0   100%
 pykickstart/handlers/f12.py                        8      0      0      0   100%
@@ -97,16 +97,17 @@ pykickstart/handlers/rhel4.py                      8      0      0      0   100%
 pykickstart/handlers/rhel5.py                      8      0      0      0   100%
 pykickstart/handlers/rhel6.py                      8      0      0      0   100%
 pykickstart/handlers/rhel7.py                      8      0      0      0   100%
-pykickstart/i18n.py                               20      2      8      2    86%   38, 42, 37->38, 41->42
+pykickstart/i18n.py                               20      4      8      3    68%   38, 42, 46-48, 31->46, 37->38, 41->42
 pykickstart/ko.py                                  6      0      0      0   100%
-pykickstart/load.py                               48      4     12      1    92%   65-66, 80-81, 78->80
+pykickstart/load.py                               48      6     12      2    87%   65-66, 80-81, 96-97, 78->80, 92->96
 pykickstart/options.py                           137     17     54      8    84%   76, 83-90, 93, 110, 169-171, 177, 242, 253, 258, 107->110, 168->169, 176->177, 235->240, 240->exit, 241->242, 250->253, 261->264
-pykickstart/parser.py                            427     12    177     15    95%   140, 157, 165, 432, 550, 570, 573, 640, 731, 759, 788-789, 98->65, 132->140, 149->157, 237->240, 431->432, 558->exit, 569->570, 572->573, 639->640, 641->598, 692->695, 729->731, 758->759, 760->703, 787->788
+pykickstart/parser.py                            429     12    177     17    95%   140, 157, 165, 432, 551, 571, 574, 641, 733, 761, 790-791, 61->64, 79->81, 98->65, 132->140, 149->157, 237->240, 431->432, 559->exit, 570->571, 573->574, 640->641, 642->599, 694->697, 731->733, 760->761, 762->705, 789->790
 pykickstart/sections.py                          128      1     16      2    98%   166, 165->166, 175->exit
-pykickstart/version.py                           103      0     30      1    99%   205->exit
+pykickstart/version.py                           102      2     30      1    96%   52-53, 203->exit
+tools/__init__.py                                  0      0      0      0   100%
 tools/ksflatten.py                                39     39      8      0     0%   23-73
 tools/ksshell.py                                 108    108     28      0     0%   37-234
-tools/ksvalidator.py                              63      8     14      2    87%   43-44, 100-101, 106-107, 109-110, 99->100, 105->106
+tools/ksvalidator.py                              66      4     20      1    92%   120-123, 119->120
 tools/ksverdiff.py                                68     68     24      0     0%   24-117
 ------------------------------------------------------------------------------------------
-TOTAL                                           7465    348   1935     90    95%
+TOTAL                                           7470    351   1943     94    94%
