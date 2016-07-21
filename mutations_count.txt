@@ -70,9 +70,6 @@
 {<module 'pykickstart.commands.timezone' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/timezone.py'>: {'boolean_replacer': 5,
  28
 
-{<module 'pykickstart.commands.unsupported_hardware' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/unsupported_hardware.py'>: {'boolean_replacer': 2,
- 3
-
 {<module 'pykickstart.commands.updates' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/updates.py'>: {'number_replacer': 5,
  49
 
