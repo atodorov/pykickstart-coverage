@@ -13,9 +13,6 @@
 {<module 'pykickstart.commands.volgroup' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/volgroup.py'>: {'boolean_replacer': 6,
  206
 
-{<module 'pykickstart.commands.authconfig' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/authconfig.py'>: {'number_replacer': 1}}
- 1
-
 {<module 'pykickstart.commands.xconfig' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/xconfig.py'>: {'boolean_replacer': 4,
  138
 
@@ -141,9 +138,6 @@
 
 {<module 'pykickstart.commands.url' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/url.py'>: {'boolean_replacer': 7,
  53
-
-{<module 'pykickstart.commands.autostep' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/autostep.py'>: {'boolean_replacer': 4,
- 5
 
 {<module 'pykickstart.commands.autopart' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/autopart.py'>: {'boolean_replacer': 10,
  100
