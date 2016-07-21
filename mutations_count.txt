@@ -91,9 +91,6 @@
 {<module 'pykickstart.commands.firewall' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/firewall.py'>: {'arithmetic_operator_deletion': 1,
  128
 
-{<module 'pykickstart.commands.interactive' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/interactive.py'>: {'boolean_replacer': 2,
- 3
-
 {<module 'pykickstart.commands.iscsiname' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/iscsiname.py'>: {'number_replacer': 5,
  30
 
@@ -154,17 +151,11 @@
 {<module 'pykickstart.commands.lang' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/lang.py'>: {'number_replacer': 6,
  31
 
-{<module 'pykickstart.commands.lilocheck' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/lilocheck.py'>: {'boolean_replacer': 2,
- 3
-
 {<module 'pykickstart.commands.liveimg' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/liveimg.py'>: {'boolean_replacer': 3,
  39
 
 {<module 'pykickstart.commands.logging' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/logging.py'>: {'number_replacer': 1,
  33
-
-{<module 'pykickstart.commands.mediacheck' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/mediacheck.py'>: {'boolean_replacer': 2,
- 3
 
 {<module 'pykickstart.commands.vnc' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/vnc.py'>: {'boolean_replacer': 2,
  56
