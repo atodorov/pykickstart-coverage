@@ -1,0 +1,221 @@
+{<module 'pykickstart.commands.keyboard' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/keyboard.py'>: {'number_replacer': 15,
+ 76
+
+{<module 'pykickstart.commands.zerombr' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/zerombr.py'>: {'boolean_replacer': 3,
+ 15
+
+{<module 'pykickstart.commands.zfcp' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/zfcp.py'>: {'boolean_replacer': 7,
+ 138
+
+{<module 'pykickstart.commands.displaymode' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/displaymode.py'>: {'number_replacer': 2,
+ 74
+
+{<module 'pykickstart.commands.volgroup' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/volgroup.py'>: {'boolean_replacer': 6,
+ 206
+
+{<module 'pykickstart.commands.authconfig' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/authconfig.py'>: {'number_replacer': 1}}
+ 1
+
+{<module 'pykickstart.commands.xconfig' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/xconfig.py'>: {'boolean_replacer': 4,
+ 138
+
+{<module 'pykickstart.commands.dmraid' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/dmraid.py'>: {'arithmetic_operator_deletion': 1,
+ 42
+
+{<module 'pykickstart.commands.reqpart' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/reqpart.py'>: {'boolean_replacer': 4,
+ 5
+
+{<module 'pykickstart.commands.btrfs' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/btrfs.py'>: {'boolean_replacer': 9,
+ 86
+
+{<module 'pykickstart.commands.driverdisk' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/driverdisk.py'>: {'number_replacer': 14,
+ 95
+
+{<module 'pykickstart.commands.ignoredisk' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/ignoredisk.py'>: {'boolean_replacer': 3,
+ 109
+
+{<module 'pykickstart.commands.iscsi' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/iscsi.py'>: {'boolean_replacer': 1,
+ 71
+
+{<module 'pykickstart.commands.logvol' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/logvol.py'>: {'boolean_replacer': 32,
+ 236
+
+{<module 'pykickstart.commands.method' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/method.py'>: {'boolean_replacer': 6,
+ 168
+
+{<module 'pykickstart.commands.deviceprobe' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/deviceprobe.py'>: {'number_replacer': 1,
+ 9
+
+{<module 'pykickstart.commands.monitor' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/monitor.py'>: {'boolean_replacer': 2,
+ 68
+
+{<module 'pykickstart.commands.reboot' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/reboot.py'>: {'boolean_replacer': 4,
+ 53
+
+{<module 'pykickstart.commands.rootpw' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/rootpw.py'>: {'boolean_replacer': 4,
+ 64
+
+{<module 'pykickstart.commands.services' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/services.py'>: {'number_replacer': 5,
+ 49
+
+{<module 'pykickstart.commands.skipx' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/skipx.py'>: {'boolean_replacer': 2,
+ 3
+
+{<module 'pykickstart.commands.sshpw' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/sshpw.py'>: {'boolean_replacer': 8,
+ 56
+
+{<module 'pykickstart.commands.langsupport' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/langsupport.py'>: {'number_replacer': 1}}
+ 1
+
+{<module 'pykickstart.commands.eula' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/eula.py'>: {'boolean_replacer': 2,
+ 11
+
+{<module 'pykickstart.commands.fcoe' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/fcoe.py'>: {'boolean_replacer': 6,
+ 34
+
+{<module 'pykickstart.commands.selinux' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/selinux.py'>: {'number_replacer': 1,
+ 37
+
+{<module 'pykickstart.commands.timezone' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/timezone.py'>: {'boolean_replacer': 5,
+ 28
+
+{<module 'pykickstart.commands.unsupported_hardware' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/unsupported_hardware.py'>: {'boolean_replacer': 2,
+ 3
+
+{<module 'pykickstart.commands.updates' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/updates.py'>: {'number_replacer': 5,
+ 49
+
+{<module 'pykickstart.commands.user' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/user.py'>: {'boolean_replacer': 6,
+ 52
+
+{<module 'pykickstart.commands.multipath' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/multipath.py'>: {'arithmetic_operator_deletion': 1,
+ 36
+
+{<module 'pykickstart.commands.realm' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/realm.py'>: {'number_replacer': 4,
+ 30
+
+{<module 'pykickstart.commands.upgrade' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/upgrade.py'>: {'boolean_replacer': 4,
+ 51
+
+{<module 'pykickstart.commands.clearpart' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/clearpart.py'>: {'boolean_replacer': 2,
+ 59
+
+{<module 'pykickstart.commands.firewall' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/firewall.py'>: {'arithmetic_operator_deletion': 1,
+ 128
+
+{<module 'pykickstart.commands.interactive' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/interactive.py'>: {'boolean_replacer': 2,
+ 3
+
+{<module 'pykickstart.commands.iscsiname' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/iscsiname.py'>: {'number_replacer': 5,
+ 30
+
+{<module 'pykickstart.commands.mouse' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/mouse.py'>: {'boolean_replacer': 2,
+ 13
+
+{<module 'pykickstart.commands.network' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/network.py'>: {'arithmetic_operator_deletion': 3,
+ 352
+
+{<module 'pykickstart.commands.nfs' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/nfs.py'>: {'boolean_replacer': 4,
+ 42
+
+{<module 'pykickstart.commands.rescue' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/rescue.py'>: {'boolean_replacer': 6,
+ 7
+
+{<module 'pykickstart.commands.sshkey' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/sshkey.py'>: {'boolean_replacer': 2,
+ 51
+
+{<module 'pykickstart.commands.device' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/device.py'>: {'boolean_replacer': 2,
+ 102
+
+{<module 'pykickstart.commands.ostreesetup' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/ostreesetup.py'>: {'boolean_replacer': 4,
+ 13
+
+{<module 'pykickstart.commands.partition' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/partition.py'>: {'boolean_replacer': 23,
+ 245
+
+{<module 'pykickstart.commands.raid' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/raid.py'>: {'boolean_replacer': 13,
+ 238
+
+{<module 'pykickstart.commands.repo' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/repo.py'>: {'boolean_replacer': 8,
+ 45
+
+{<module 'pykickstart.commands.url' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/url.py'>: {'boolean_replacer': 7,
+ 53
+
+{<module 'pykickstart.commands.autostep' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/autostep.py'>: {'boolean_replacer': 4,
+ 5
+
+{<module 'pykickstart.commands.autopart' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/autopart.py'>: {'boolean_replacer': 10,
+ 100
+
+{<module 'pykickstart.commands.bootloader' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/bootloader.py'>: {'boolean_replacer': 23,
+ 136
+
+{<module 'pykickstart.commands.cdrom' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/cdrom.py'>: {'number_replacer': 1,
+ 10
+
+{<module 'pykickstart.commands.firstboot' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/firstboot.py'>: {'number_replacer': 1,
+ 37
+
+{<module 'pykickstart.commands.group' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/group.py'>: {'boolean_replacer': 2,
+ 30
+
+{<module 'pykickstart.commands.harddrive' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/harddrive.py'>: {'boolean_replacer': 2,
+ 84
+
+{<module 'pykickstart.commands.key' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/key.py'>: {'boolean_replacer': 2,
+ 30
+
+{<module 'pykickstart.commands.lang' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/lang.py'>: {'number_replacer': 6,
+ 31
+
+{<module 'pykickstart.commands.lilocheck' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/lilocheck.py'>: {'boolean_replacer': 2,
+ 3
+
+{<module 'pykickstart.commands.liveimg' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/liveimg.py'>: {'boolean_replacer': 3,
+ 39
+
+{<module 'pykickstart.commands.logging' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/logging.py'>: {'number_replacer': 1,
+ 33
+
+{<module 'pykickstart.commands.mediacheck' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/mediacheck.py'>: {'boolean_replacer': 2,
+ 3
+
+{<module 'pykickstart.commands.vnc' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/vnc.py'>: {'boolean_replacer': 2,
+ 56
+
+{<module 'pykickstart.handlers.control' from '/home/atodorov/repos/git/pykickstart/pykickstart/handlers/control.py'>: {'number_replacer': 2,
+ 11
+
+{<module 'pykickstart.i18n' from '/home/atodorov/repos/git/pykickstart/pykickstart/i18n.py'>: {'replace_Eq_with_Gt': 1,
+ 17
+
+{<module 'pykickstart.constants' from '/home/atodorov/repos/git/pykickstart/pykickstart/constants.py'>: {'arithmetic_operator_deletion': 1,
+ 32
+
+{<module 'pykickstart.load' from '/home/atodorov/repos/git/pykickstart/pykickstart/load.py'>: {'boolean_replacer': 1,
+ 18
+
+{<module 'pykickstart.base' from '/home/atodorov/repos/git/pykickstart/pykickstart/base.py'>: {'arithmetic_operator_deletion': 1,
+ 268
+
+{<module 'pykickstart.parser' from '/home/atodorov/repos/git/pykickstart/pykickstart/parser.py'>: {'boolean_replacer': 26,
+ 586
+
+{<module 'pykickstart.version' from '/home/atodorov/repos/git/pykickstart/pykickstart/version.py'>: {'boolean_replacer': 4,
+ 115
+
+{<module 'pykickstart.sections' from '/home/atodorov/repos/git/pykickstart/pykickstart/sections.py'>: {'boolean_replacer': 16,
+ 58
+
+{<module 'pykickstart.options' from '/home/atodorov/repos/git/pykickstart/pykickstart/options.py'>: {'boolean_replacer': 6,
+ 178
+
+{<module 'pykickstart.errors' from '/home/atodorov/repos/git/pykickstart/pykickstart/errors.py'>: {'replace_NotEq_with_Eq': 1,
+ 8
+
+{<module 'tools.ksflatten' from '/home/atodorov/repos/git/pykickstart/tools/ksflatten.py'>: {'boolean_replacer': 1,
+ 14
+
+{<module 'tools.ksvalidator' from '/home/atodorov/repos/git/pykickstart/tools/ksvalidator.py'>: {'boolean_replacer': 5,
+ 28
