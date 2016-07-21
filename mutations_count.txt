@@ -55,14 +55,8 @@
 {<module 'pykickstart.commands.services' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/services.py'>: {'number_replacer': 5,
  49
 
-{<module 'pykickstart.commands.skipx' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/skipx.py'>: {'boolean_replacer': 2,
- 3
-
 {<module 'pykickstart.commands.sshpw' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/sshpw.py'>: {'boolean_replacer': 8,
  56
-
-{<module 'pykickstart.commands.langsupport' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/langsupport.py'>: {'number_replacer': 1}}
- 1
 
 {<module 'pykickstart.commands.eula' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/eula.py'>: {'boolean_replacer': 2,
  11
