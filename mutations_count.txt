@@ -19,9 +19,6 @@
 {<module 'pykickstart.commands.dmraid' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/dmraid.py'>: {'arithmetic_operator_deletion': 1,
  42
 
-{<module 'pykickstart.commands.reqpart' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/reqpart.py'>: {'boolean_replacer': 4,
- 5
-
 {<module 'pykickstart.commands.btrfs' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/btrfs.py'>: {'boolean_replacer': 9,
  86
 
