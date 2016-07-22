@@ -100,9 +100,6 @@
 {<module 'pykickstart.commands.nfs' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/nfs.py'>: {'boolean_replacer': 4,
  42
 
-{<module 'pykickstart.commands.rescue' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/rescue.py'>: {'boolean_replacer': 6,
- 7
-
 {<module 'pykickstart.commands.sshkey' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/sshkey.py'>: {'boolean_replacer': 2,
  51
 
