@@ -121,9 +121,6 @@
 {<module 'pykickstart.commands.bootloader' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/bootloader.py'>: {'boolean_replacer': 23,
  80
 
-{<module 'pykickstart.commands.cdrom' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/cdrom.py'>: {'number_replacer': 1,
- 10
-
 {<module 'pykickstart.commands.firstboot' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/firstboot.py'>: {'number_replacer': 1,
  37
 
@@ -142,14 +139,11 @@
 {<module 'pykickstart.commands.liveimg' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/liveimg.py'>: {'boolean_replacer': 3,
  39
 
-{<module 'pykickstart.commands.logging' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/logging.py'>: {'number_replacer': 1,
- 1
-
 {<module 'pykickstart.commands.vnc' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/vnc.py'>: {'boolean_replacer': 2,
  16
 
 {<module 'pykickstart.i18n' from '/home/atodorov/repos/git/pykickstart/pykickstart/i18n.py'>: {'replace_Eq_with_Gt': 1,
- 9
+ 9 - error during import in CR
 
 {<module 'pykickstart.constants' from '/home/atodorov/repos/git/pykickstart/pykickstart/constants.py'>: {'arithmetic_operator_deletion': 1,
  32
