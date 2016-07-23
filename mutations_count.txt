@@ -37,9 +37,6 @@
 {<module 'pykickstart.commands.method' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/method.py'>: {'boolean_replacer': 6,
  168
 
-{<module 'pykickstart.commands.deviceprobe' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/deviceprobe.py'>: {'number_replacer': 1,
- 9
-
 {<module 'pykickstart.commands.monitor' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/monitor.py'>: {'boolean_replacer': 2,
  68
 
@@ -180,9 +177,6 @@
 
 {<module 'pykickstart.options' from '/home/atodorov/repos/git/pykickstart/pykickstart/options.py'>: {'boolean_replacer': 6,
  178
-
-{<module 'pykickstart.errors' from '/home/atodorov/repos/git/pykickstart/pykickstart/errors.py'>: {'replace_NotEq_with_Eq': 1,
- 8
 
 {<module 'tools.ksflatten' from '/home/atodorov/repos/git/pykickstart/tools/ksflatten.py'>: {'boolean_replacer': 1,
  14
