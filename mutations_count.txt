@@ -52,9 +52,6 @@
 {<module 'pykickstart.commands.sshpw' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/sshpw.py'>: {'boolean_replacer': 8,
  56
 
-{<module 'pykickstart.commands.eula' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/eula.py'>: {'boolean_replacer': 2,
- 11
-
 {<module 'pykickstart.commands.fcoe' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/fcoe.py'>: {'boolean_replacer': 6,
  34
 
@@ -89,7 +86,7 @@
  30
 
 {<module 'pykickstart.commands.mouse' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/mouse.py'>: {'boolean_replacer': 2,
- 13
+ 1 - not killed
 
 {<module 'pykickstart.commands.network' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/network.py'>: {'arithmetic_operator_deletion': 3,
  352
@@ -150,9 +147,6 @@
 
 {<module 'pykickstart.commands.vnc' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/vnc.py'>: {'boolean_replacer': 2,
  56
-
-{<module 'pykickstart.handlers.control' from '/home/atodorov/repos/git/pykickstart/pykickstart/handlers/control.py'>: {'number_replacer': 2,
- 11
 
 {<module 'pykickstart.i18n' from '/home/atodorov/repos/git/pykickstart/pykickstart/i18n.py'>: {'replace_Eq_with_Gt': 1,
  17
