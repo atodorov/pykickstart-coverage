@@ -1,9 +1,6 @@
 {<module 'pykickstart.commands.keyboard' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/keyboard.py'>: {'number_replacer': 15,
  68
 
-{<module 'pykickstart.commands.zerombr' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/zerombr.py'>: {'boolean_replacer': 3,
- 15
-
 {<module 'pykickstart.commands.zfcp' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/zfcp.py'>: {'boolean_replacer': 7,
  98
 
@@ -68,7 +65,7 @@
  44
 
 {<module 'pykickstart.commands.multipath' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/multipath.py'>: {'arithmetic_operator_deletion': 1,
- 36
+ 27
 
 {<module 'pykickstart.commands.realm' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/realm.py'>: {'number_replacer': 4,
  30
@@ -99,9 +96,6 @@
 
 {<module 'pykickstart.commands.device' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/device.py'>: {'boolean_replacer': 2,
  70
-
-{<module 'pykickstart.commands.ostreesetup' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/ostreesetup.py'>: {'boolean_replacer': 4,
- 13
 
 {<module 'pykickstart.commands.partition' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/partition.py'>: {'boolean_replacer': 23,
  149
@@ -137,10 +131,10 @@
  23
 
 {<module 'pykickstart.commands.liveimg' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/liveimg.py'>: {'boolean_replacer': 3,
- 39
+ 36 - still survived
 
 {<module 'pykickstart.commands.vnc' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/vnc.py'>: {'boolean_replacer': 2,
- 16
+ 2 - still survived
 
 {<module 'pykickstart.i18n' from '/home/atodorov/repos/git/pykickstart/pykickstart/i18n.py'>: {'replace_Eq_with_Gt': 1,
  9 - error during import in CR
