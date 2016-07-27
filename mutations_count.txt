@@ -14,13 +14,7 @@
  2 - still survived (== / is replacement and == / >= replacement)
 
 {<module 'pykickstart.commands.driverdisk' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/driverdisk.py'>: {'number_replacer': 14,
- 95
-
-{<module 'pykickstart.commands.ignoredisk' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/ignoredisk.py'>: {'boolean_replacer': 3,
- 109
-
-{<module 'pykickstart.commands.iscsi' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/iscsi.py'>: {'boolean_replacer': 1,
- 55
+ 10 - still survived ( == / >= and == / is replacements)
 
 {<module 'pykickstart.commands.logvol' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/logvol.py'>: {'boolean_replacer': 32,
  180
@@ -62,7 +56,7 @@
  27
 
 {<module 'pykickstart.commands.realm' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/realm.py'>: {'number_replacer': 4,
- 30
+ 5 - still survived ( ==, !=, not in <= else raise)
 
 {<module 'pykickstart.commands.upgrade' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/upgrade.py'>: {'boolean_replacer': 4,
  51
