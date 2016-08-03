@@ -17,7 +17,7 @@
  10 - still survived ( == / >= and == / is replacements)
 
 {<module 'pykickstart.commands.logvol' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/logvol.py'>: {'boolean_replacer': 32,
- 180
+ 2 - still survived ( == / is replacements)
 
 {<module 'pykickstart.commands.method' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/method.py'>: {'boolean_replacer': 6,
  168
