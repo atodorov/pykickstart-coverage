@@ -20,13 +20,13 @@
  2 - still survived ( == / is replacements)
 
 {<module 'pykickstart.commands.method' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/method.py'>: {'boolean_replacer': 6,
- 168
+ 28 - still survived ( ==, is, <=, >= equivalent mutations)
 
 {<module 'pykickstart.commands.monitor' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/monitor.py'>: {'boolean_replacer': 2,
- 20
+ 4 - still survived
 
 {<module 'pykickstart.commands.reboot' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/reboot.py'>: {'boolean_replacer': 4,
- 53
+ 10 - still survived, == equivalents
 
 {<module 'pykickstart.commands.rootpw' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/rootpw.py'>: {'boolean_replacer': 4,
  56
