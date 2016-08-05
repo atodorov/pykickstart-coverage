@@ -29,34 +29,25 @@
  10 - still survived, == equivalents
 
 {<module 'pykickstart.commands.rootpw' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/rootpw.py'>: {'boolean_replacer': 4,
- 56
-
-{<module 'pykickstart.commands.services' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/services.py'>: {'number_replacer': 5,
- 41
-
-{<module 'pykickstart.commands.sshpw' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/sshpw.py'>: {'boolean_replacer': 8,
- 56
-
-{<module 'pykickstart.commands.fcoe' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/fcoe.py'>: {'boolean_replacer': 6,
- 34
+ 2 - still survived len() != 1 -> len() < 1 && raise
 
 {<module 'pykickstart.commands.selinux' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/selinux.py'>: {'number_replacer': 1,
- 37
+ 7 - still survived, ==, <= and number comparisons
 
 {<module 'pykickstart.commands.timezone' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/timezone.py'>: {'boolean_replacer': 5,
- 28
+ 2 - still survived != -> <,> 1 & raise
 
 {<module 'pykickstart.commands.updates' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/updates.py'>: {'number_replacer': 5,
- 41
-
-{<module 'pykickstart.commands.user' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/user.py'>: {'boolean_replacer': 6,
- 44
+ 3 - still survived, equivalent string comparisons (>=, is, in)
 
 {<module 'pykickstart.commands.multipath' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/multipath.py'>: {'arithmetic_operator_deletion': 1,
- 27
+ 11 - still survived, appear to be equivalent string comparisons
 
 {<module 'pykickstart.commands.realm' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/realm.py'>: {'number_replacer': 4,
- 5 - still survived ( ==, !=, not in <= else raise)
+ 5 
+
+
+- still survived ( ==, !=, not in <= else raise)
 
 {<module 'pykickstart.commands.upgrade' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/upgrade.py'>: {'boolean_replacer': 4,
  51
