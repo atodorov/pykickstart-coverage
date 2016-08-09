@@ -1,0 +1,19 @@
+[Counts]
+{<module 'pykickstart.commands.xconfig' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/xconfig.py'>: {'boolean_replacer': 4,
+                                                                                                                       'number_replacer': 6,
+                                                                                                                       'replace_NotEq_with_Eq': 16,
+                                                                                                                       'replace_NotEq_with_Gt': 16,
+                                                                                                                       'replace_NotEq_with_GtE': 16,
+                                                                                                                       'replace_NotEq_with_In': 16,
+                                                                                                                       'replace_NotEq_with_Is': 16,
+                                                                                                                       'replace_NotEq_with_Lt': 16,
+                                                                                                                       'replace_NotEq_with_LtE': 16,
+                                                                                                                       'replace_NotEq_with_NotIn': 16}}
+
+[Total test runs]
+ 138
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 2.517s
+
+OK

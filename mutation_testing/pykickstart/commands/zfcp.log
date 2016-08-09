@@ -1,0 +1,37 @@
+[Counts]
+{<module 'pykickstart.commands.zfcp' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/zfcp.py'>: {'boolean_replacer': 7,
+                                                                                                                 'number_replacer': 1,
+                                                                                                                 'replace_Eq_with_Gt': 9,
+                                                                                                                 'replace_Eq_with_GtE': 9,
+                                                                                                                 'replace_Eq_with_In': 9,
+                                                                                                                 'replace_Eq_with_Is': 9,
+                                                                                                                 'replace_Eq_with_IsNot': 9,
+                                                                                                                 'replace_Eq_with_Lt': 9,
+                                                                                                                 'replace_Eq_with_LtE': 9,
+                                                                                                                 'replace_Eq_with_NotEq': 9,
+                                                                                                                 'replace_Eq_with_NotIn': 9,
+                                                                                                                 'replace_In_with_Eq': 1,
+                                                                                                                 'replace_In_with_Gt': 1,
+                                                                                                                 'replace_In_with_GtE': 1,
+                                                                                                                 'replace_In_with_Is': 1,
+                                                                                                                 'replace_In_with_IsNot': 1,
+                                                                                                                 'replace_In_with_Lt': 1,
+                                                                                                                 'replace_In_with_LtE': 1,
+                                                                                                                 'replace_In_with_NotEq': 1,
+                                                                                                                 'replace_In_with_NotIn': 1,
+                                                                                                                 'replace_NotEq_with_Eq': 5,
+                                                                                                                 'replace_NotEq_with_Gt': 5,
+                                                                                                                 'replace_NotEq_with_GtE': 5,
+                                                                                                                 'replace_NotEq_with_In': 5,
+                                                                                                                 'replace_NotEq_with_Is': 5,
+                                                                                                                 'replace_NotEq_with_Lt': 5,
+                                                                                                                 'replace_NotEq_with_LtE': 5,
+                                                                                                                 'replace_NotEq_with_NotIn': 5}}
+
+[Total test runs]
+ 138
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.814s
+
+OK

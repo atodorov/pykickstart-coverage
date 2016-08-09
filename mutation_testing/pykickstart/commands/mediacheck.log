@@ -1,0 +1,11 @@
+[Counts]
+{<module 'pykickstart.commands.mediacheck' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/mediacheck.py'>: {'boolean_replacer': 2,
+                                                                                                                             'number_replacer': 1}}
+
+[Total test runs]
+ 3
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.083s
+
+OK

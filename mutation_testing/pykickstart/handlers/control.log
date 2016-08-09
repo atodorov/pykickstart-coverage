@@ -1,0 +1,19 @@
+[Counts]
+{<module 'pykickstart.handlers.control' from '/home/atodorov/repos/git/pykickstart/pykickstart/handlers/control.py'>: {'number_replacer': 2,
+                                                                                                                       'replace_In_with_Eq': 1,
+                                                                                                                       'replace_In_with_Gt': 1,
+                                                                                                                       'replace_In_with_GtE': 1,
+                                                                                                                       'replace_In_with_Is': 1,
+                                                                                                                       'replace_In_with_IsNot': 1,
+                                                                                                                       'replace_In_with_Lt': 1,
+                                                                                                                       'replace_In_with_LtE': 1,
+                                                                                                                       'replace_In_with_NotEq': 1,
+                                                                                                                       'replace_In_with_NotIn': 1}}
+
+[Total test runs]
+ 11
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.030s
+
+OK

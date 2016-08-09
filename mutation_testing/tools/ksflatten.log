@@ -1,0 +1,20 @@
+[Counts]
+{<module 'tools.ksflatten' from '/home/atodorov/repos/git/pykickstart/tools/ksflatten.py'>: {'boolean_replacer': 1,
+                                                                                             'number_replacer': 4,
+                                                                                             'replace_Eq_with_Gt': 1,
+                                                                                             'replace_Eq_with_GtE': 1,
+                                                                                             'replace_Eq_with_In': 1,
+                                                                                             'replace_Eq_with_Is': 1,
+                                                                                             'replace_Eq_with_IsNot': 1,
+                                                                                             'replace_Eq_with_Lt': 1,
+                                                                                             'replace_Eq_with_LtE': 1,
+                                                                                             'replace_Eq_with_NotEq': 1,
+                                                                                             'replace_Eq_with_NotIn': 1}}
+
+[Total test runs]
+ 14
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+OK

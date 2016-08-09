@@ -1,0 +1,19 @@
+[Counts]
+{<module 'pykickstart.commands.liveimg' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/liveimg.py'>: {'boolean_replacer': 3,
+                                                                                                                       'replace_Eq_with_Gt': 4,
+                                                                                                                       'replace_Eq_with_GtE': 4,
+                                                                                                                       'replace_Eq_with_In': 4,
+                                                                                                                       'replace_Eq_with_Is': 4,
+                                                                                                                       'replace_Eq_with_IsNot': 4,
+                                                                                                                       'replace_Eq_with_Lt': 4,
+                                                                                                                       'replace_Eq_with_LtE': 4,
+                                                                                                                       'replace_Eq_with_NotEq': 4,
+                                                                                                                       'replace_Eq_with_NotIn': 4}}
+
+[Total test runs]
+ 39
+.
+----------------------------------------------------------------------
+Ran 1 test in 1.114s
+
+OK

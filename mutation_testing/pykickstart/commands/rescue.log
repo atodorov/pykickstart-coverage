@@ -1,0 +1,11 @@
+[Counts]
+{<module 'pykickstart.commands.rescue' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/rescue.py'>: {'boolean_replacer': 6,
+                                                                                                                     'number_replacer': 1}}
+
+[Total test runs]
+ 7
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.131s
+
+OK

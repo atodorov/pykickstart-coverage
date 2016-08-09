@@ -1,0 +1,17 @@
+[Counts]
+{<module 'pykickstart.errors' from '/home/atodorov/repos/git/pykickstart/pykickstart/errors.py'>: {'replace_NotEq_with_Eq': 1,
+                                                                                                   'replace_NotEq_with_Gt': 1,
+                                                                                                   'replace_NotEq_with_GtE': 1,
+                                                                                                   'replace_NotEq_with_In': 1,
+                                                                                                   'replace_NotEq_with_Is': 1,
+                                                                                                   'replace_NotEq_with_Lt': 1,
+                                                                                                   'replace_NotEq_with_LtE': 1,
+                                                                                                   'replace_NotEq_with_NotIn': 1}}
+
+[Total test runs]
+ 8
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK

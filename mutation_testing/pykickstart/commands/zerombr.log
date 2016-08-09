@@ -1,0 +1,20 @@
+[Counts]
+{<module 'pykickstart.commands.zerombr' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/zerombr.py'>: {'boolean_replacer': 3,
+                                                                                                                       'number_replacer': 3,
+                                                                                                                       'replace_Gt_with_Eq': 1,
+                                                                                                                       'replace_Gt_with_GtE': 1,
+                                                                                                                       'replace_Gt_with_In': 1,
+                                                                                                                       'replace_Gt_with_Is': 1,
+                                                                                                                       'replace_Gt_with_IsNot': 1,
+                                                                                                                       'replace_Gt_with_Lt': 1,
+                                                                                                                       'replace_Gt_with_LtE': 1,
+                                                                                                                       'replace_Gt_with_NotEq': 1,
+                                                                                                                       'replace_Gt_with_NotIn': 1}}
+
+[Total test runs]
+ 15
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.114s
+
+OK

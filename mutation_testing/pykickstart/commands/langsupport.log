@@ -1,0 +1,10 @@
+[Counts]
+{<module 'pykickstart.commands.langsupport' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/langsupport.py'>: {'number_replacer': 1}}
+
+[Total test runs]
+ 1
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.126s
+
+OK

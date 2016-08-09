@@ -1,0 +1,47 @@
+[Counts]
+{<module 'pykickstart.commands.autopart' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/autopart.py'>: {'boolean_replacer': 10,
+                                                                                                                         'break_continue_replacement': 1,
+                                                                                                                         'number_replacer': 10,
+                                                                                                                         'replace_Eq_with_Gt': 4,
+                                                                                                                         'replace_Eq_with_GtE': 4,
+                                                                                                                         'replace_Eq_with_In': 4,
+                                                                                                                         'replace_Eq_with_Is': 4,
+                                                                                                                         'replace_Eq_with_IsNot': 4,
+                                                                                                                         'replace_Eq_with_Lt': 4,
+                                                                                                                         'replace_Eq_with_LtE': 4,
+                                                                                                                         'replace_Eq_with_NotEq': 4,
+                                                                                                                         'replace_Eq_with_NotIn': 4,
+                                                                                                                         'replace_Gt_with_Eq': 1,
+                                                                                                                         'replace_Gt_with_GtE': 1,
+                                                                                                                         'replace_Gt_with_In': 1,
+                                                                                                                         'replace_Gt_with_Is': 1,
+                                                                                                                         'replace_Gt_with_IsNot': 1,
+                                                                                                                         'replace_Gt_with_Lt': 1,
+                                                                                                                         'replace_Gt_with_LtE': 1,
+                                                                                                                         'replace_Gt_with_NotEq': 1,
+                                                                                                                         'replace_Gt_with_NotIn': 1,
+                                                                                                                         'replace_In_with_Eq': 2,
+                                                                                                                         'replace_In_with_Gt': 2,
+                                                                                                                         'replace_In_with_GtE': 2,
+                                                                                                                         'replace_In_with_Is': 2,
+                                                                                                                         'replace_In_with_IsNot': 2,
+                                                                                                                         'replace_In_with_Lt': 2,
+                                                                                                                         'replace_In_with_LtE': 2,
+                                                                                                                         'replace_In_with_NotEq': 2,
+                                                                                                                         'replace_In_with_NotIn': 2,
+                                                                                                                         'replace_NotEq_with_Eq': 2,
+                                                                                                                         'replace_NotEq_with_Gt': 2,
+                                                                                                                         'replace_NotEq_with_GtE': 2,
+                                                                                                                         'replace_NotEq_with_In': 2,
+                                                                                                                         'replace_NotEq_with_Is': 2,
+                                                                                                                         'replace_NotEq_with_Lt': 2,
+                                                                                                                         'replace_NotEq_with_LtE': 2,
+                                                                                                                         'replace_NotEq_with_NotIn': 2}}
+
+[Total test runs]
+ 100
+...........
+----------------------------------------------------------------------
+Ran 11 tests in 6.309s
+
+OK

@@ -1,0 +1,11 @@
+[Counts]
+{<module 'pykickstart.commands.autostep' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/autostep.py'>: {'boolean_replacer': 4,
+                                                                                                                         'number_replacer': 1}}
+
+[Total test runs]
+ 5
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.068s
+
+OK

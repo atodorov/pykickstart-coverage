@@ -1,0 +1,10 @@
+[Counts]
+{<module 'pykickstart.commands.authconfig' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/authconfig.py'>: {'number_replacer': 2}}
+
+[Total test runs]
+ 2
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.107s
+
+OK

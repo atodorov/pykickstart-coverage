@@ -1,0 +1,28 @@
+[Counts]
+{<module 'pykickstart.commands.vnc' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/vnc.py'>: {'boolean_replacer': 2,
+                                                                                                               'number_replacer': 5,
+                                                                                                               'replace_Gt_with_Eq': 1,
+                                                                                                               'replace_Gt_with_GtE': 1,
+                                                                                                               'replace_Gt_with_In': 1,
+                                                                                                               'replace_Gt_with_Is': 1,
+                                                                                                               'replace_Gt_with_IsNot': 1,
+                                                                                                               'replace_Gt_with_Lt': 1,
+                                                                                                               'replace_Gt_with_LtE': 1,
+                                                                                                               'replace_Gt_with_NotEq': 1,
+                                                                                                               'replace_Gt_with_NotIn': 1,
+                                                                                                               'replace_NotEq_with_Eq': 5,
+                                                                                                               'replace_NotEq_with_Gt': 5,
+                                                                                                               'replace_NotEq_with_GtE': 5,
+                                                                                                               'replace_NotEq_with_In': 5,
+                                                                                                               'replace_NotEq_with_Is': 5,
+                                                                                                               'replace_NotEq_with_Lt': 5,
+                                                                                                               'replace_NotEq_with_LtE': 5,
+                                                                                                               'replace_NotEq_with_NotIn': 5}}
+
+[Total test runs]
+ 56
+...
+----------------------------------------------------------------------
+Ran 3 tests in 1.699s
+
+OK

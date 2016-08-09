@@ -1,0 +1,19 @@
+[Counts]
+{<module 'pykickstart.commands.monitor' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/monitor.py'>: {'boolean_replacer': 2,
+                                                                                                                       'number_replacer': 2,
+                                                                                                                       'replace_NotEq_with_Eq': 8,
+                                                                                                                       'replace_NotEq_with_Gt': 8,
+                                                                                                                       'replace_NotEq_with_GtE': 8,
+                                                                                                                       'replace_NotEq_with_In': 8,
+                                                                                                                       'replace_NotEq_with_Is': 8,
+                                                                                                                       'replace_NotEq_with_Lt': 8,
+                                                                                                                       'replace_NotEq_with_LtE': 8,
+                                                                                                                       'replace_NotEq_with_NotIn': 8}}
+
+[Total test runs]
+ 68
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.405s
+
+OK

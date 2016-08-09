@@ -1,0 +1,29 @@
+[Counts]
+{<module 'tools.ksverdiff' from '/home/atodorov/repos/git/pykickstart/tools/ksverdiff.py'>: {'boolean_replacer': 5,
+                                                                                             'number_replacer': 8,
+                                                                                             'replace_Eq_with_Gt': 2,
+                                                                                             'replace_Eq_with_GtE': 2,
+                                                                                             'replace_Eq_with_In': 2,
+                                                                                             'replace_Eq_with_Is': 2,
+                                                                                             'replace_Eq_with_IsNot': 2,
+                                                                                             'replace_Eq_with_Lt': 2,
+                                                                                             'replace_Eq_with_LtE': 2,
+                                                                                             'replace_Eq_with_NotEq': 2,
+                                                                                             'replace_Eq_with_NotIn': 2,
+                                                                                             'replace_Gt_with_Eq': 3,
+                                                                                             'replace_Gt_with_GtE': 3,
+                                                                                             'replace_Gt_with_In': 3,
+                                                                                             'replace_Gt_with_Is': 3,
+                                                                                             'replace_Gt_with_IsNot': 3,
+                                                                                             'replace_Gt_with_Lt': 3,
+                                                                                             'replace_Gt_with_LtE': 3,
+                                                                                             'replace_Gt_with_NotEq': 3,
+                                                                                             'replace_Gt_with_NotIn': 3}}
+
+[Total test runs]
+ 58
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.001s
+
+OK

@@ -1,0 +1,18 @@
+[Counts]
+{<module 'pykickstart.commands.deviceprobe' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/deviceprobe.py'>: {'number_replacer': 1,
+                                                                                                                               'replace_NotEq_with_Eq': 1,
+                                                                                                                               'replace_NotEq_with_Gt': 1,
+                                                                                                                               'replace_NotEq_with_GtE': 1,
+                                                                                                                               'replace_NotEq_with_In': 1,
+                                                                                                                               'replace_NotEq_with_Is': 1,
+                                                                                                                               'replace_NotEq_with_Lt': 1,
+                                                                                                                               'replace_NotEq_with_LtE': 1,
+                                                                                                                               'replace_NotEq_with_NotIn': 1}}
+
+[Total test runs]
+ 9
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.068s
+
+OK

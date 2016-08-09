@@ -1,0 +1,36 @@
+[Counts]
+{<module 'pykickstart.commands.realm' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/realm.py'>: {'number_replacer': 4,
+                                                                                                                   'replace_Eq_with_Gt': 1,
+                                                                                                                   'replace_Eq_with_GtE': 1,
+                                                                                                                   'replace_Eq_with_In': 1,
+                                                                                                                   'replace_Eq_with_Is': 1,
+                                                                                                                   'replace_Eq_with_IsNot': 1,
+                                                                                                                   'replace_Eq_with_Lt': 1,
+                                                                                                                   'replace_Eq_with_LtE': 1,
+                                                                                                                   'replace_Eq_with_NotEq': 1,
+                                                                                                                   'replace_Eq_with_NotIn': 1,
+                                                                                                                   'replace_In_with_Eq': 1,
+                                                                                                                   'replace_In_with_Gt': 1,
+                                                                                                                   'replace_In_with_GtE': 1,
+                                                                                                                   'replace_In_with_Is': 1,
+                                                                                                                   'replace_In_with_IsNot': 1,
+                                                                                                                   'replace_In_with_Lt': 1,
+                                                                                                                   'replace_In_with_LtE': 1,
+                                                                                                                   'replace_In_with_NotEq': 1,
+                                                                                                                   'replace_In_with_NotIn': 1,
+                                                                                                                   'replace_NotEq_with_Eq': 1,
+                                                                                                                   'replace_NotEq_with_Gt': 1,
+                                                                                                                   'replace_NotEq_with_GtE': 1,
+                                                                                                                   'replace_NotEq_with_In': 1,
+                                                                                                                   'replace_NotEq_with_Is': 1,
+                                                                                                                   'replace_NotEq_with_Lt': 1,
+                                                                                                                   'replace_NotEq_with_LtE': 1,
+                                                                                                                   'replace_NotEq_with_NotIn': 1}}
+
+[Total test runs]
+ 30
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.287s
+
+OK

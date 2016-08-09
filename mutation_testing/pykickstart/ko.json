@@ -1,0 +1,1 @@
+{"work-parameters": {"1": {"timeout": 2.7177499999999997, "test-runner": "nose", "test-args": ["-v", "--stop", "-I", "__init__.py", "-I", "baseclass.py", "tests/ko.py"]}}, "_default": {}, "work-items": {}}

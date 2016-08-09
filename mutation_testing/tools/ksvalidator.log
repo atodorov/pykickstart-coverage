@@ -1,0 +1,29 @@
+[Counts]
+{<module 'tools.ksvalidator' from '/home/atodorov/repos/git/pykickstart/tools/ksvalidator.py'>: {'boolean_replacer': 5,
+                                                                                                 'number_replacer': 5,
+                                                                                                 'replace_Eq_with_Gt': 1,
+                                                                                                 'replace_Eq_with_GtE': 1,
+                                                                                                 'replace_Eq_with_In': 1,
+                                                                                                 'replace_Eq_with_Is': 1,
+                                                                                                 'replace_Eq_with_IsNot': 1,
+                                                                                                 'replace_Eq_with_Lt': 1,
+                                                                                                 'replace_Eq_with_LtE': 1,
+                                                                                                 'replace_Eq_with_NotEq': 1,
+                                                                                                 'replace_Eq_with_NotIn': 1,
+                                                                                                 'replace_IsNot_with_Eq': 1,
+                                                                                                 'replace_IsNot_with_Gt': 1,
+                                                                                                 'replace_IsNot_with_GtE': 1,
+                                                                                                 'replace_IsNot_with_In': 1,
+                                                                                                 'replace_IsNot_with_Is': 1,
+                                                                                                 'replace_IsNot_with_Lt': 1,
+                                                                                                 'replace_IsNot_with_LtE': 1,
+                                                                                                 'replace_IsNot_with_NotEq': 1,
+                                                                                                 'replace_IsNot_with_NotIn': 1}}
+
+[Total test runs]
+ 28
+.............
+----------------------------------------------------------------------
+Ran 13 tests in 0.225s
+
+OK

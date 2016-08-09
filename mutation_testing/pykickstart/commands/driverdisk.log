@@ -1,0 +1,28 @@
+[Counts]
+{<module 'pykickstart.commands.driverdisk' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/driverdisk.py'>: {'number_replacer': 14,
+                                                                                                                             'replace_Eq_with_Gt': 5,
+                                                                                                                             'replace_Eq_with_GtE': 5,
+                                                                                                                             'replace_Eq_with_In': 5,
+                                                                                                                             'replace_Eq_with_Is': 5,
+                                                                                                                             'replace_Eq_with_IsNot': 5,
+                                                                                                                             'replace_Eq_with_Lt': 5,
+                                                                                                                             'replace_Eq_with_LtE': 5,
+                                                                                                                             'replace_Eq_with_NotEq': 5,
+                                                                                                                             'replace_Eq_with_NotIn': 5,
+                                                                                                                             'replace_Gt_with_Eq': 4,
+                                                                                                                             'replace_Gt_with_GtE': 4,
+                                                                                                                             'replace_Gt_with_In': 4,
+                                                                                                                             'replace_Gt_with_Is': 4,
+                                                                                                                             'replace_Gt_with_IsNot': 4,
+                                                                                                                             'replace_Gt_with_Lt': 4,
+                                                                                                                             'replace_Gt_with_LtE': 4,
+                                                                                                                             'replace_Gt_with_NotEq': 4,
+                                                                                                                             'replace_Gt_with_NotIn': 4}}
+
+[Total test runs]
+ 95
+....
+----------------------------------------------------------------------
+Ran 4 tests in 1.080s
+
+OK

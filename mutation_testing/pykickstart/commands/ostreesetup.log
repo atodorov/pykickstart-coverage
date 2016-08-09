@@ -1,0 +1,19 @@
+[Counts]
+{<module 'pykickstart.commands.ostreesetup' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/ostreesetup.py'>: {'boolean_replacer': 4,
+                                                                                                                               'replace_Is_with_Eq': 1,
+                                                                                                                               'replace_Is_with_Gt': 1,
+                                                                                                                               'replace_Is_with_GtE': 1,
+                                                                                                                               'replace_Is_with_In': 1,
+                                                                                                                               'replace_Is_with_IsNot': 1,
+                                                                                                                               'replace_Is_with_Lt': 1,
+                                                                                                                               'replace_Is_with_LtE': 1,
+                                                                                                                               'replace_Is_with_NotEq': 1,
+                                                                                                                               'replace_Is_with_NotIn': 1}}
+
+[Total test runs]
+ 13
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.519s
+
+OK

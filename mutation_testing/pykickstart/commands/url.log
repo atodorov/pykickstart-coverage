@@ -1,0 +1,20 @@
+[Counts]
+{<module 'pykickstart.commands.url' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/url.py'>: {'boolean_replacer': 7,
+                                                                                                               'number_replacer': 1,
+                                                                                                               'replace_Eq_with_Gt': 5,
+                                                                                                               'replace_Eq_with_GtE': 5,
+                                                                                                               'replace_Eq_with_In': 5,
+                                                                                                               'replace_Eq_with_Is': 5,
+                                                                                                               'replace_Eq_with_IsNot': 5,
+                                                                                                               'replace_Eq_with_Lt': 5,
+                                                                                                               'replace_Eq_with_LtE': 5,
+                                                                                                               'replace_Eq_with_NotEq': 5,
+                                                                                                               'replace_Eq_with_NotIn': 5}}
+
+[Total test runs]
+ 53
+....
+----------------------------------------------------------------------
+Ran 4 tests in 2.426s
+
+OK

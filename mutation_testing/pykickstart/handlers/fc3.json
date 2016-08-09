@@ -1,0 +1,1 @@
+{"work-items": {}, "_default": {}, "work-parameters": {"1": {"test-runner": "nose", "timeout": 3.8497500000000002, "test-args": ["-v", "--stop", "-I", "__init__.py", "-I", "baseclass.py", "tests/handlers.py"]}}}

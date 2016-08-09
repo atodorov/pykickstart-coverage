@@ -1,0 +1,30 @@
+[Counts]
+{<module 'tools.ksshell' from '/home/atodorov/repos/git/pykickstart/tools/ksshell.py'>: {'boolean_replacer': 3,
+                                                                                         'break_continue_replacement': 3,
+                                                                                         'number_replacer': 8,
+                                                                                         'replace_Eq_with_Gt': 4,
+                                                                                         'replace_Eq_with_GtE': 4,
+                                                                                         'replace_Eq_with_In': 4,
+                                                                                         'replace_Eq_with_Is': 4,
+                                                                                         'replace_Eq_with_IsNot': 4,
+                                                                                         'replace_Eq_with_Lt': 4,
+                                                                                         'replace_Eq_with_LtE': 4,
+                                                                                         'replace_Eq_with_NotEq': 4,
+                                                                                         'replace_Eq_with_NotIn': 4,
+                                                                                         'replace_In_with_Eq': 1,
+                                                                                         'replace_In_with_Gt': 1,
+                                                                                         'replace_In_with_GtE': 1,
+                                                                                         'replace_In_with_Is': 1,
+                                                                                         'replace_In_with_IsNot': 1,
+                                                                                         'replace_In_with_Lt': 1,
+                                                                                         'replace_In_with_LtE': 1,
+                                                                                         'replace_In_with_NotEq': 1,
+                                                                                         'replace_In_with_NotIn': 1}}
+
+[Total test runs]
+ 59
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+OK

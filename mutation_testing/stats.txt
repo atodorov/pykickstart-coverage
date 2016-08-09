@@ -1,0 +1,22 @@
+Initial data
+------------
+5364 + 159 = 5523 mutations
+100 sec average run time = 6,40 days
+347 tests = 1 916 481 test executions
+
+Initial run in divide & conquer
+-------------------------------
+
+30619 test executions
+6,35 hrs estimated execution time
+Actual execution time: 250 min == 6:10 hrs
+
+real    237m31.187s
+user    10m31.744s
+sys     0m34.609s
+
+Survival rate: 2104/5364 == 39 %
+
+i=0
+for f in `find -name "*.sr"`; do log=`echo "$f"| sed "s/\.sr/\.log/"`; sr=`cat $f`; mutations=`cat $log | grep -A1 "Total test runs" | grep -v "Total test runs" | tr -d ' '`; survived=`echo "$sr*$mutations/100"|bc`; echo "$f -- $mutations -- $sr -- $survived"; i=$(($i+$survived)); done
+echo $i

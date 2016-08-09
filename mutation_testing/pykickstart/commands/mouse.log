@@ -1,0 +1,19 @@
+[Counts]
+{<module 'pykickstart.commands.mouse' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/mouse.py'>: {'boolean_replacer': 2,
+                                                                                                                   'number_replacer': 3,
+                                                                                                                   'replace_NotEq_with_Eq': 1,
+                                                                                                                   'replace_NotEq_with_Gt': 1,
+                                                                                                                   'replace_NotEq_with_GtE': 1,
+                                                                                                                   'replace_NotEq_with_In': 1,
+                                                                                                                   'replace_NotEq_with_Is': 1,
+                                                                                                                   'replace_NotEq_with_Lt': 1,
+                                                                                                                   'replace_NotEq_with_LtE': 1,
+                                                                                                                   'replace_NotEq_with_NotIn': 1}}
+
+[Total test runs]
+ 13
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.142s
+
+OK
