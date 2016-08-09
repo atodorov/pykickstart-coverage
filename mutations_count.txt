@@ -44,10 +44,7 @@
  11 - still survived, appear to be equivalent string comparisons
 
 {<module 'pykickstart.commands.realm' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/realm.py'>: {'number_replacer': 4,
- 5 
-
-
-- still survived ( ==, !=, not in <= else raise)
+ 5 - still survived ( ==, !=, not in <= else raise)
 
 {<module 'pykickstart.commands.upgrade' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/upgrade.py'>: {'boolean_replacer': 4,
  51
