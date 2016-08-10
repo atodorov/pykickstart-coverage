@@ -47,19 +47,16 @@
  5 - still survived ( ==, !=, not in <= else raise)
 
 {<module 'pykickstart.commands.upgrade' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/upgrade.py'>: {'boolean_replacer': 4,
- 51
+ 7 - still survived ( == is, != is not, >= equivalents)
 
 {<module 'pykickstart.commands.clearpart' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/clearpart.py'>: {'boolean_replacer': 2,
- 59
+ 4 - still survived (==/is equivalents)
 
 {<module 'pykickstart.commands.firewall' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/firewall.py'>: {'arithmetic_operator_deletion': 1,
- 128
+ 12 - still survived, equivalent string and None comparisons
 
 {<module 'pykickstart.commands.iscsiname' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/iscsiname.py'>: {'number_replacer': 5,
- 22
-
-{<module 'pykickstart.commands.mouse' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/mouse.py'>: {'boolean_replacer': 2,
- 1 - not killed
+ 2 - still survived != 1 -> < 1, > 1 then raise exception
 
 {<module 'pykickstart.commands.network' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/network.py'>: {'arithmetic_operator_deletion': 3,
  184
