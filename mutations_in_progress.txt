@@ -59,7 +59,7 @@
  2 - still survived != 1 -> < 1, > 1 then raise exception
 
 {<module 'pykickstart.commands.network' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/network.py'>: {'arithmetic_operator_deletion': 3,
- 184
+ 36 - still survived  - break -> continue with only 1 action in loop
 
 {<module 'pykickstart.commands.nfs' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/nfs.py'>: {'boolean_replacer': 4,
  42
