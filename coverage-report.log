@@ -4,7 +4,7 @@ pykickstart/__init__.py                            0      0      0      0   100%
 pykickstart/base.py                              196     18     95     14    88%   102, 115, 131, 168-169, 184-185, 308, 314, 349-353, 370, 376, 379, 382, 513, 101->102, 114->115, 117->111, 307->308, 313->314, 334->325, 346->351, 348->349, 366->370, 372->376, 378->379, 381->382, 512->513, 515->509
 pykickstart/commands/__init__.py                   1      0      0      0   100%
 pykickstart/commands/authconfig.py                21      3      2      0    87%   45-57
-pykickstart/commands/autopart.py                 242      3     76      4    98%   168, 210, 366, 40->43, 167->168, 209->210, 365->366
+pykickstart/commands/autopart.py                 242      4     76      5    97%   168, 210, 266, 366, 40->43, 167->168, 209->210, 265->266, 365->366
 pykickstart/commands/autostep.py                  27      0      4      0   100%
 pykickstart/commands/bootloader.py               267      0     62      0   100%
 pykickstart/commands/btrfs.py                    131      0     39      0   100%
@@ -38,7 +38,7 @@ pykickstart/commands/method.py                    73      1     46      1    98%
 pykickstart/commands/monitor.py                   65      3     18      0    96%   118-120
 pykickstart/commands/mouse.py                     46      3     11      0    95%   77-79
 pykickstart/commands/multipath.py                 79      3     14      1    96%   123-125, 99->93
-pykickstart/commands/network.py                  479      6    148     12    96%   338, 341, 539-542, 337->338, 340->341, 494->502, 495->494, 514->522, 515->514, 584->617, 591->603, 707->715, 708->707, 727->735, 728->727
+pykickstart/commands/network.py                  497      8    152     14    96%   266, 329, 350, 353, 551-554, 265->266, 328->329, 349->350, 352->353, 506->514, 507->506, 526->534, 527->526, 596->629, 603->615, 731->739, 732->731, 751->759, 752->751
 pykickstart/commands/nfs.py                       52      1      8      1    97%   37, 36->37
 pykickstart/commands/ostreesetup.py               52      0     16      0   100%
 pykickstart/commands/partition.py                355      1     88      1    99%   405, 404->405
@@ -110,4 +110,4 @@ tools/ksshell.py                                 108    108     28      0     0%
 tools/ksvalidator.py                              66      4     20      1    92%   119-122, 118->119
 tools/ksverdiff.py                                68     68     24      0     0%   24-117
 ------------------------------------------------------------------------------------------
-TOTAL                                           7561    373   1965    110    94%
+TOTAL                                           7579    376   1969    113    94%
