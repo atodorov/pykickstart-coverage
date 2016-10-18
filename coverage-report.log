@@ -10,17 +10,17 @@ pykickstart/commands/bootloader.py               272      0     62      0   100%
 pykickstart/commands/btrfs.py                    131      0     39      0   100%
 pykickstart/commands/cdrom.py                     20      0      4      0   100%
 pykickstart/commands/clearpart.py                 78      0     18      0   100%
-pykickstart/commands/device.py                    99      2     26      0    98%   157-158
+pykickstart/commands/device.py                    99      0     26      0   100%
 pykickstart/commands/deviceprobe.py               19      0      2      0   100%
 pykickstart/commands/displaymode.py               37      0     16      0   100%
 pykickstart/commands/dmraid.py                    62      0      8      0   100%
 pykickstart/commands/driverdisk.py               133      0     40      0   100%
 pykickstart/commands/eula.py                      32      0      8      0   100%
 pykickstart/commands/fcoe.py                      90      0     12      0   100%
-pykickstart/commands/firewall.py                 127      2     36      2    98%   43, 164, 42->43, 163->164
+pykickstart/commands/firewall.py                 127      0     36      0   100%
 pykickstart/commands/firstboot.py                 32      0      8      0   100%
-pykickstart/commands/group.py                     55      1     10      1    97%   38, 37->38
-pykickstart/commands/harddrive.py                 41      1      8      1    96%   41, 40->41
+pykickstart/commands/group.py                     55      0     10      0   100%
+pykickstart/commands/harddrive.py                 41      0      8      0   100%
 pykickstart/commands/ignoredisk.py                85      0     26      0   100%
 pykickstart/commands/install.py                   13      0      0      0   100%
 pykickstart/commands/interactive.py               29      2      2      0    94%   56-57
@@ -32,7 +32,7 @@ pykickstart/commands/lang.py                      48      1      8      1    96%
 pykickstart/commands/langsupport.py               39      2      7      0    96%   70-71
 pykickstart/commands/lilocheck.py                 22      0      2      0   100%
 pykickstart/commands/liveimg.py                   41      0     10      0   100%
-pykickstart/commands/logging.py                   41      1     12      1    96%   84, 83->84
+pykickstart/commands/logging.py                   40      0     10      0   100%
 pykickstart/commands/logvol.py                   476      0    132      0   100%
 pykickstart/commands/mediacheck.py                22      0      2      0   100%
 pykickstart/commands/method.py                    76      0     44      0   100%
@@ -40,7 +40,7 @@ pykickstart/commands/monitor.py                   65      0     18      0   100%
 pykickstart/commands/mouse.py                     46      2     11      0    96%   78-79
 pykickstart/commands/multipath.py                 79      5     14      2    92%   107-109, 124-125, 99->93, 102->107
 pykickstart/commands/network.py                  497      8    152     14    96%   266, 329, 350, 353, 551-554, 265->266, 328->329, 349->350, 352->353, 506->514, 507->506, 526->534, 527->526, 596->629, 603->615, 730->738, 731->730, 750->758, 751->750
-pykickstart/commands/nfs.py                       52      1      8      1    97%   37, 36->37
+pykickstart/commands/nfs.py                       52      0      8      0   100%
 pykickstart/commands/ostreesetup.py               52      0     16      0   100%
 pykickstart/commands/partition.py                355      1     88      1    99%   405, 404->405
 pykickstart/commands/raid.py                     393      4     91      7    98%   47, 273, 405, 433, 46->47, 272->273, 404->405, 432->433, 478->487, 510->518, 581->589
@@ -111,4 +111,4 @@ tools/ksshell.py                                 108    108     28      0     0%
 tools/ksvalidator.py                              66      4     20      1    92%   119-122, 118->119
 tools/ksverdiff.py                                68     68     24      0     0%   24-117
 ------------------------------------------------------------------------------------------
-TOTAL                                           7633    353   1977    105    94%
+TOTAL                                           7632    345   1975     99    94%
