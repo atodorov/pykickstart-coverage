@@ -4,7 +4,7 @@ pykickstart/__init__.py                            0      0      0      0   100%
 pykickstart/base.py                              198      6     98      5    96%   306, 312, 347-351, 305->306, 311->312, 332->323, 344->349, 346->347
 pykickstart/commands/__init__.py                   1      0      0      0   100%
 pykickstart/commands/authconfig.py                21      0      2      0   100%
-pykickstart/commands/autopart.py                 256      1     80      1    99%   264, 263->264
+pykickstart/commands/autopart.py                 256      0     80      0   100%
 pykickstart/commands/autostep.py                  27      0      4      0   100%
 pykickstart/commands/bootloader.py               272      0     62      0   100%
 pykickstart/commands/btrfs.py                    131      0     39      0   100%
@@ -111,4 +111,4 @@ tools/ksshell.py                                 108    108     28      0     0%
 tools/ksvalidator.py                              66      4     20      1    92%   119-122, 118->119
 tools/ksverdiff.py                                68     68     24      0     0%   24-117
 ------------------------------------------------------------------------------------------
-TOTAL                                           7640    277   1966     59    96%
+TOTAL                                           7640    276   1966     58    96%
