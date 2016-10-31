@@ -1,20 +1,12 @@
-{<module 'pykickstart.commands.zfcp' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/zfcp.py'>: {'boolean_replacer': 7,
- 9 - still survived (== to is replacement)
-
 {<module 'pykickstart.commands.displaymode' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/displaymode.py'>: {'number_replacer': 2,
- 4 - still survived (== to is replacement)
+
+1 left, where None is a valid value:
+-        if (self.displayMode is None):
++        if (self.displayMode == None):
+
 
 {<module 'pykickstart.commands.volgroup' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/volgroup.py'>: {'boolean_replacer': 6,
- 11 - still survived ( x < 0 / x <= 0), is not None / != None
-
-{<module 'pykickstart.commands.dmraid' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/dmraid.py'>: {'arithmetic_operator_deletion': 1,
- 1 - still survived (== / is replacement)
-
-{<module 'pykickstart.commands.btrfs' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/btrfs.py'>: {'boolean_replacer': 9,
- 2 - still survived (== / is replacement and == / >= replacement)
-
-{<module 'pykickstart.commands.driverdisk' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/driverdisk.py'>: {'number_replacer': 14,
- 10 - still survived ( == / >= and == / is replacements)
+ 6 - survived ( x < 0 / x <= 0), is not None / != None
 
 {<module 'pykickstart.commands.logvol' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/logvol.py'>: {'boolean_replacer': 32,
  2 - still survived ( == / is replacements)

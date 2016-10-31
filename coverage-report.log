@@ -12,7 +12,7 @@ pykickstart/commands/cdrom.py                     20      0      4      0   100%
 pykickstart/commands/clearpart.py                 78      0     18      0   100%
 pykickstart/commands/device.py                    99      0     26      0   100%
 pykickstart/commands/deviceprobe.py               19      0      2      0   100%
-pykickstart/commands/displaymode.py               37      0     16      0   100%
+pykickstart/commands/displaymode.py               60      0     18      0   100%
 pykickstart/commands/dmraid.py                    62      0      8      0   100%
 pykickstart/commands/driverdisk.py               133      0     40      0   100%
 pykickstart/commands/eula.py                      32      0      8      0   100%
@@ -86,6 +86,7 @@ pykickstart/handlers/f22.py                        8      0      0      0   100%
 pykickstart/handlers/f23.py                        8      0      0      0   100%
 pykickstart/handlers/f24.py                        8      0      0      0   100%
 pykickstart/handlers/f25.py                        8      0      0      0   100%
+pykickstart/handlers/f26.py                        8      0      0      0   100%
 pykickstart/handlers/f7.py                         8      0      0      0   100%
 pykickstart/handlers/f8.py                         8      0      0      0   100%
 pykickstart/handlers/f9.py                         8      0      0      0   100%
@@ -104,11 +105,11 @@ pykickstart/load.py                               48      6     12      2    87%
 pykickstart/options.py                           139     17     56      8    84%   76, 83-90, 93, 110, 177-179, 185, 249, 259, 264, 107->110, 176->177, 184->185, 242->247, 247->exit, 248->249, 256->259, 267->270
 pykickstart/parser.py                            429     12    177     17    95%   140, 157, 165, 432, 551, 571, 574, 641, 733, 761, 790-791, 61->64, 79->81, 98->65, 132->140, 149->157, 237->240, 431->432, 559->exit, 570->571, 573->574, 640->641, 642->599, 694->697, 731->733, 760->761, 762->705, 789->790
 pykickstart/sections.py                          146      1     16      2    98%   170, 169->170, 179->exit
-pykickstart/version.py                           104      2     30      1    96%   52-53, 203->exit
+pykickstart/version.py                           105      2     30      1    96%   52-53, 204->exit
 tools/__init__.py                                  0      0      0      0   100%
 tools/ksflatten.py                                39     39      8      0     0%   23-73
 tools/ksshell.py                                 108    108     28      0     0%   37-234
 tools/ksvalidator.py                              66      4     20      1    92%   119-122, 118->119
 tools/ksverdiff.py                                68     68     24      0     0%   24-117
 ------------------------------------------------------------------------------------------
-TOTAL                                           7640    276   1966     58    96%
+TOTAL                                           7672    276   1968     58    96%
