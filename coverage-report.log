@@ -4,7 +4,7 @@ pykickstart/__init__.py                            0      0      0      0   100%
 pykickstart/base.py                              198      6     98      5    96%   306, 312, 347-351, 305->306, 311->312, 332->323, 344->349, 346->347
 pykickstart/commands/__init__.py                   1      0      0      0   100%
 pykickstart/commands/authconfig.py                21      0      2      0   100%
-pykickstart/commands/autopart.py                 256      0     80      0   100%
+pykickstart/commands/autopart.py                 256      1     80      1    99%   264, 263->264
 pykickstart/commands/autostep.py                  27      0      4      0   100%
 pykickstart/commands/bootloader.py               272      0     62      0   100%
 pykickstart/commands/btrfs.py                    131      0     39      0   100%
@@ -103,7 +103,7 @@ pykickstart/i18n.py                               20      4      8      3    68%
 pykickstart/ko.py                                  6      0      0      0   100%
 pykickstart/load.py                               48      6     12      2    87%   65-66, 80-81, 96-97, 78->80, 92->96
 pykickstart/options.py                           139     17     56      8    84%   76, 83-90, 93, 110, 177-179, 185, 249, 259, 264, 107->110, 176->177, 184->185, 242->247, 247->exit, 248->249, 256->259, 267->270
-pykickstart/parser.py                            429     12    177     17    95%   140, 157, 165, 432, 551, 571, 574, 641, 733, 761, 790-791, 61->64, 79->81, 98->65, 132->140, 149->157, 237->240, 431->432, 559->exit, 570->571, 573->574, 640->641, 642->599, 694->697, 731->733, 760->761, 762->705, 789->790
+pykickstart/parser.py                            430     12    177     17    95%   142, 159, 167, 434, 553, 573, 576, 643, 735, 763, 792-793, 63->66, 81->83, 100->67, 134->142, 151->159, 239->242, 433->434, 561->exit, 572->573, 575->576, 642->643, 644->601, 696->699, 733->735, 762->763, 764->707, 791->792
 pykickstart/sections.py                          146      1     16      2    98%   170, 169->170, 179->exit
 pykickstart/version.py                           105      2     30      1    96%   52-53, 204->exit
 tools/__init__.py                                  0      0      0      0   100%
@@ -112,4 +112,4 @@ tools/ksshell.py                                 108    108     28      0     0%
 tools/ksvalidator.py                              66      4     20      1    92%   119-122, 118->119
 tools/ksverdiff.py                                68     68     24      0     0%   24-117
 ------------------------------------------------------------------------------------------
-TOTAL                                           7672    276   1968     58    96%
+TOTAL                                           7673    277   1968     59    96%

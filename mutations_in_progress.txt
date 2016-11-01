@@ -9,10 +9,10 @@
  6 - survived ( x < 0 / x <= 0), is not None / != None
 
 {<module 'pykickstart.commands.logvol' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/logvol.py'>: {'boolean_replacer': 32,
- 2 - still survived ( == / is replacements)
+ 1 - survived (is not None => != None replacement)
 
 {<module 'pykickstart.commands.method' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/method.py'>: {'boolean_replacer': 6,
- 28 - still survived ( ==, is, <=, >= equivalent mutations)
+ 20 - still survived ( ==, is, <=, >= equivalent mutations)
 
 {<module 'pykickstart.commands.monitor' from '/home/atodorov/repos/git/pykickstart/pykickstart/commands/monitor.py'>: {'boolean_replacer': 2,
  4 - still survived
